@@ -1,0 +1,3609 @@
+{
+  "schema": 2,
+  "updated": "2026-11-10",
+  "featured": {
+    "song": {
+      "videoId": "wsZ3Ab_v9po",
+      "title": "Soulja x Mshakil - Cairo (Official Audio) | سولجا و مشاكل - كايرو",
+      "artistId": "soulja"
+    },
+    "artistId": "hleem-taj-alser"
+  },
+  "concerts": [],
+  "ads": {
+    "banner": true,
+    "interstitial": true,
+    "appOpen": true,
+    "rewarded": true,
+    "native": true,
+    "interstitialIntervalSec": 120,
+    "appOpenIntervalSec": 7200,
+    "interstitialEveryNVideos": 3,
+    "nativeEveryN": 7
+  },
+  "update": {
+    "minVersionCode": 0,
+    "latestVersionCode": 4,
+    "url": "https://play.google.com/store/apps/details?id=com.mrmstfa.sudanrap"
+  },
+  "contact": {
+    "url": "https://formsubmit.co/ajax/MH3.abdo@gmail.com"
+  },
+  "artists": [
+    {
+      "id": "hleem-taj-alser",
+      "name": "Hleem Taj Alser",
+      "nameAr": "حليم تاج السر",
+      "channelId": "UCeRw3mwhBqi6vjKAx4_Nihw",
+      "handle": "@hleemtajalser",
+      "avatar": "https://yt3.googleusercontent.com/L5cJaiAYbDPB9dsazTX0IaAlqqJurk2Lg-B2-JFOEWQtBHo_5tD4lpNcn96ZcHgY8gfZCdNzjA=s900-c-k-c0x00ffffff-no-rj",
+      "videos": [
+        {
+          "id": "CoZcQhmuMxc",
+          "title": "Hleem Taj Alser x Esaam Satti x Ali Naseraldeen - SADA LON KHAMRI (Music Video) | سادة لون خمري"
+        },
+        {
+          "id": "030T4tjSxuA",
+          "title": "Hleem Taj Alser ft. Kay'O - Scorsese (Official Audio)"
+        },
+        {
+          "id": "wqJ7uL0v_yg",
+          "title": "Hleem Taj Alser ft. Rotation - Flashback (Official Audio)"
+        },
+        {
+          "id": "clYD9tuZilg",
+          "title": "Hleem Taj Alser - Caramel (Official Audio) | حليم تاج السر"
+        },
+        {
+          "id": "Nl1_AMmvYEk",
+          "title": "Hleem Taj Alser - Van Cleef (Official Music Video)"
+        },
+        {
+          "id": "7CGlpf0qPdU",
+          "title": "Hleem Taj Alser - Nas Kitira Ghdara (Official Music Video) | ناس كثيرة غدارة"
+        },
+        {
+          "id": "FYwr2eIzxhU",
+          "title": "Hleem Taj Alser - Icon (النهاية) (Official Lyric Video)"
+        },
+        {
+          "id": "KKNPLf5h9Ro",
+          "title": "Hleem Taj Alser - Ego (Official Lyric Video) | إيڤو"
+        },
+        {
+          "id": "3oNK1tl0Cnw",
+          "title": "Hleem Taj Alser - Hakawi (Official Lyric Video) | حكاوي"
+        },
+        {
+          "id": "4ut0626GhJE",
+          "title": "Hleem Taj Alser - Set Alwad3 (Official Lyric Video) | ست الودع"
+        },
+        {
+          "id": "EarP-lIN7SQ",
+          "title": "Hleem Taj Alser - Moraba3 Tes3a (Official Lyric Video) | مربع تسعة"
+        },
+        {
+          "id": "TaC3rZDz25A",
+          "title": "Hleem Taj Alser - Shaga (Official Lyric Video) | شقا"
+        }
+      ],
+      "socials": {
+        "youtube": "https://www.youtube.com/@hleemtajalser",
+        "tiktok": "https://www.tiktok.com/@.hleemofficial",
+        "facebook": "https://www.facebook.com/people/Hleem-Tag-Alser/100064705700681/"
+      }
+    },
+    {
+      "id": "soulja",
+      "name": "Soulja",
+      "nameAr": "سولجا",
+      "channelId": "UCU-3aVH2u__JEZFCXShiRTQ",
+      "handle": "@souljamusic",
+      "avatar": "https://yt3.googleusercontent.com/wjZHw6OX3fMLPcTz8Hbn0AcsiJa3qQ5msUjxUsxCkRrZ8PurJnPwQXLrM319eoRUyEFbIcOe=s900-c-k-c0x00ffffff-no-rj",
+      "videos": [
+        {
+          "id": "wsZ3Ab_v9po",
+          "title": "Soulja x Mshakil - Cairo (Official Audio) | سولجا و مشاكل - كايرو"
+        },
+        {
+          "id": "vtk2VlPwgo4",
+          "title": "Soulja - 0 Views (Official Short Film)"
+        },
+        {
+          "id": "Hi8qpMiFQN8",
+          "title": "Soulja & Huda Arabi - 15 Hikaya (Official Music Video) |  سولجا و هدى عربي - ١٥ حكاية"
+        },
+        {
+          "id": "tmsTUICNld0",
+          "title": "Soulja - Hakuna Matata (Prod. Mshakil) | سولجا - هاكونا متاتا"
+        },
+        {
+          "id": "vrPN5HW3OMA",
+          "title": "Soulja - Batta (Prod. Mshakil) | سولجا - بطة"
+        },
+        {
+          "id": "colTpB12FbQ",
+          "title": "Soulja - Dayman (Official Music Video) | سولجا - دايما"
+        },
+        {
+          "id": "QTudgVCBS5Q",
+          "title": "Soulja - Location (Official Music Video) | سولجا - لوكيشن"
+        },
+        {
+          "id": "Q4_NPZJoKzU",
+          "title": "Soulja - 2020 Freestyle (Prod. Khayyat) | سولجا - ٢٠٢٠ فريستايل"
+        },
+        {
+          "id": "iu4SpeoUNZo",
+          "title": "Soulja - Donia (Official Music Video) | سولجا - دنيا"
+        },
+        {
+          "id": "_3JeOmRsYoM",
+          "title": "Soulja - Argeen [Prod. 77] | سولجا - أرقين (Official Music Video)"
+        },
+        {
+          "id": "S9pPPMlmhpk",
+          "title": "Soulja - 3eneya (Official Audio) | سولجا - عينية"
+        },
+        {
+          "id": "ZE8pT-l4EW0",
+          "title": "Soulja, Montiyago, 77 - SUITS (ft. ZIAD ZAZA) | سوتس [Official Audio]"
+        }
+      ],
+      "socials": {
+        "youtube": "https://www.youtube.com/@souljamusic",
+        "tiktok": "https://www.tiktok.com/@souljamusicc"
+      }
+    },
+    {
+      "id": "bas",
+      "name": "Bas",
+      "nameAr": "باس",
+      "channelId": "UCi05TWluMO9aCDpYrDLx8rA",
+      "handle": "@bas",
+      "avatar": "https://yt3.googleusercontent.com/7Y0zO13umPQB2eXnq1lCOVp4uYfr0STDB5LeekZJuCl_GSTr9RkqsnoB9vuZiC59Gjno6tb5nQ=s900-c-k-c0x00ffffff-no-rj",
+      "videos": [
+        {
+          "id": "-mGcTqO59Sg",
+          "title": "A FAMILY THAT KNICKS TOGETHER MAKES HITS TOGETHER"
+        },
+        {
+          "id": "rSpbIwMUbkQ",
+          "title": "EVERYDAY IS A SPECIAL OCCASION, TECHNICALLY."
+        },
+        {
+          "id": "ZQ1CwfgjfsE",
+          "title": "DO YOU GRATE CHEESE?"
+        },
+        {
+          "id": "E2oyLR9__xc",
+          "title": "In Memory of my Mother"
+        },
+        {
+          "id": "V8aWM6cbzhs",
+          "title": "STEP INTO MY OFFICE"
+        },
+        {
+          "id": "UXUn6yu5-Rk",
+          "title": "Bas, The Hics, Domani - Mine"
+        },
+        {
+          "id": "dNysNkTby-A",
+          "title": "Four Walls BTS - @bas x @TheHics"
+        },
+        {
+          "id": "UpUxIVU_Ygg",
+          "title": "Bas, The Hics - Four Walls"
+        },
+        {
+          "id": "b4VyHpATC5o",
+          "title": "Roxane's Interlude - Bas x ‪ ‪@TheHics‬ [Lyric Video]"
+        },
+        {
+          "id": "4yCZphDhvTs",
+          "title": "Comfort Levels - Bas x ‪ @TheHics  [Lyric Video]"
+        },
+        {
+          "id": "2ZWLoqL1VdY",
+          "title": "Mine - Bas x ‪ @TheHics  x  @Domani  [Lyric Video]"
+        },
+        {
+          "id": "fZNixxDl3sA",
+          "title": "Sometimes - Bas x ‪  @TheHics [Lyric Video]"
+        }
+      ],
+      "socials": {
+        "youtube": "https://www.youtube.com/@bas",
+        "tiktok": "https://www.tiktok.com/@bas"
+      }
+    },
+    {
+      "id": "dafencii",
+      "name": "Dafencii",
+      "nameAr": "دافن شي",
+      "channelId": "UCA1qCIhGxwe2lmXJ2Opa62g",
+      "handle": "@Thedafencii",
+      "avatar": "https://yt3.googleusercontent.com/35oy_Ku3Yo5FVEZbVgF8w-Yi_dkZUXZXujlPJ4VYxVC_-p6ZwDFvMQTyQE9XifqBE4-ELnGOnw=s900-c-k-c0x00ffffff-no-rj",
+      "videos": [
+        {
+          "id": "35K5Bg5rDf4",
+          "title": "Dafencii - Shattat (Official Audio) | دافن شي - شتت"
+        },
+        {
+          "id": "gfoV3pAZXps",
+          "title": "DAFENCII - SECRET (Official Music Video) | دافن شي - سر"
+        },
+        {
+          "id": "CthKZZXKQaA",
+          "title": "DAFENCII - FTRA (Official Audio) | دافن شي - فترة"
+        },
+        {
+          "id": "mjvJkAkqrM8",
+          "title": "DAFENCII X YAD Oud - BAMA (Official Audio) | دافن شي ويد عود - باما"
+        },
+        {
+          "id": "tb6wA2ggNVc",
+          "title": "DAFENCII X HLEEM TAJ ALSER - HANAK BEESH (Official Video) | ‎دافن شي وحليم تاج السر - حنك بيش"
+        },
+        {
+          "id": "6XaVJXuTqTQ",
+          "title": "DAFENCII - THE BIG EID (Official Audio) | دافن شي - العيد الكبير"
+        },
+        {
+          "id": "5emWbiYd1hE",
+          "title": "DAFENCII X SOULJA - COUNTER ATTACK (Official Audio) | دافن شي وسولجا - هجمة مرتدة"
+        },
+        {
+          "id": "ueh6zWduvgA",
+          "title": "DAFENCII - EL MAKTOOB (Official Video) | دافن شي - المكتوب"
+        },
+        {
+          "id": "2ypDW98Vqf0",
+          "title": "DAFENCII - TARAT ALTAYARA (Official Audio) | دافن شي - طارت الطيارة"
+        },
+        {
+          "id": "_OQOKatds4A",
+          "title": "DAFENCII - DOPAMINE (Official Music Video) | دافن شي - دوبامين"
+        },
+        {
+          "id": "omXdYXte0JY",
+          "title": "DAFENCII - ARTWORK (Official Lyric Video) | دافن شي - عمل فني"
+        },
+        {
+          "id": "zaXL5xALCrc",
+          "title": "DAFENCII feat. KHAYYAT - KING ALHALABA (Official Music Video) | دافن شي وخياط - كنق الحلبة"
+        }
+      ],
+      "socials": {
+        "youtube": "https://www.youtube.com/@thedafencii",
+        "tiktok": "https://www.tiktok.com/@dafencii"
+      }
+    },
+    {
+      "id": "mohamed-mood",
+      "name": "Mohamed Mood",
+      "nameAr": "محمد مود",
+      "channelId": "UCm4KeMmlJOQ1rBZcD5ay7eg",
+      "handle": "@m7md.moodmusic",
+      "avatar": "https://yt3.googleusercontent.com/elDIJCr0TmuDYJLA92rrf4waQ6o512t7XFSEK5V-mHiJVybLZIDkZ9xHibjX3PK5GDRMFlvoNw=s900-c-k-c0x00ffffff-no-rj",
+      "videos": [
+        {
+          "id": "nTG7VoAnRhw",
+          "title": "Mohamed Mood - Al Leil Satwa (Official Music Video)"
+        },
+        {
+          "id": "y1_8R-Tomak",
+          "title": "Mohamed Mood Ft. A.M.D - DRUBI | محمد مود و اي ام دي  - دروبي (Official Music Video) 2025"
+        },
+        {
+          "id": "1126BKn8DR4",
+          "title": "محمد مود و لورد - يا أتي ما شاء الله -  Mohamed Mood Ft. LORD - Ya Ati Masha Allah"
+        },
+        {
+          "id": "XlHoPDPRCuo",
+          "title": "DJ ASEEL SA &  LORD & Mohamed Mood ( DOOS) محمد مود دوس"
+        },
+        {
+          "id": "mHQMRXZEBXk",
+          "title": "Mohamed Mood | غاوي التعب | A.M.D & ADEL AZMI"
+        },
+        {
+          "id": "ZulyEl76FTQ",
+          "title": "Mohamed Mood | bidunik | ADEL AZMI | محمد مود | بدونك"
+        },
+        {
+          "id": "WB30V9d_qgc",
+          "title": "محمد مود - حد الصبر-  Mohamed Mood (Official Music Audio)"
+        },
+        {
+          "id": "cDaZ_3EYadk",
+          "title": "محمد مود و لورد - مابنا شي- Mohamed Mood ft lord"
+        },
+        {
+          "id": "EnDzofvjL6g",
+          "title": "Mohamed Mood Ft. A_M_D -  | محمد مود و اي ام دي - فئة من القوم (Official Music Video)"
+        },
+        {
+          "id": "N1NEyEw35jY",
+          "title": "محمد مود & لورد - دقوا نظيف - Mohamed Mood ft Lord"
+        },
+        {
+          "id": "tTQLo1Gb3ew",
+          "title": "محمد مود - اشتياق - & ADEL AZMI & A.M.D ( Official Lyrics Video)"
+        },
+        {
+          "id": "ziXKaxa0oV0",
+          "title": "محمد مود - بتهون - Mohamed Mood  ( Official Lyrics Video)"
+        }
+      ]
+    },
+    {
+      "id": "marsimba",
+      "name": "MarSimba",
+      "nameAr": "مارسيمبا",
+      "channelId": "UC5gphfkS9OfDIAZDfGJLnfQ",
+      "handle": "@Marsimba",
+      "avatar": "https://yt3.googleusercontent.com/MKeiksrpH_ukOEGQIZo3UlEUKPwBsysYwDnfSJxBs_pRfv1fW05qikijjQVjWNhO67RxZUFN=s900-c-k-c0x00ffffff-no-rj",
+      "videos": [
+        {
+          "id": "W_frHJbr1kk",
+          "title": "MARSIMBA - ALAMNI | Produced By Mshakil"
+        },
+        {
+          "id": "m9eZKzumwZ4",
+          "title": "TOBA | Marsimba - Produced By Mshakil And Rexus"
+        },
+        {
+          "id": "gON6OGbcSyQ",
+          "title": "MarSimba - Maki Yaki (Official Video)"
+        },
+        {
+          "id": "KJfRwAI8utk",
+          "title": "MarSimba - 3enek | عينيك (Official Music Audio)"
+        },
+        {
+          "id": "LfXIrtzKm2M",
+          "title": "Malouf Aloyoon - Ritzy Concert"
+        },
+        {
+          "id": "fp_sPhUQYVk",
+          "title": "MarSimba - غداره | Ghadara (Official Music Audio)"
+        },
+        {
+          "id": "180fx5_N3SM",
+          "title": "MarSimba - Online (Official Video) ft. Salvo Riggi"
+        },
+        {
+          "id": "KXR-jN1gIgA",
+          "title": "Bajry (MarSimba X Flashkiiddo) (Official Video)"
+        },
+        {
+          "id": "m89jSm2ydVw",
+          "title": "KaifwKaif (Mazmars ft. Seidosimba) (Official Video)"
+        },
+        {
+          "id": "m97oDOValCk",
+          "title": "KANDAKA Official Remix (Skales X SeidoSimba X MazMars)"
+        },
+        {
+          "id": "upV01vSWv-s",
+          "title": "Kandaka (Seidosimba ft. Mazmars) (Official Video)"
+        },
+        {
+          "id": "4v_9pf_tc8Y",
+          "title": "MaMuhim (Mazmars ft. Seidosimba)"
+        }
+      ],
+      "socials": {
+        "youtube": "https://www.youtube.com/@Marsimba"
+      }
+    },
+    {
+      "id": "wad-almzad",
+      "name": "Wad Almzad",
+      "nameAr": "ود المزاد",
+      "channelId": "UCG8cyw6yLbNKGPlpP9BUx7w",
+      "handle": "@wadalmzad",
+      "avatar": "https://yt3.googleusercontent.com/EBfahCRhwMfajl04jNwBYq9agZKEZPmSAQn-znFez_D99QJg8PcTFsy5NLhqMA4MPWJ1NRWNiw=s900-c-k-c0x00ffffff-no-rj",
+      "videos": [
+        {
+          "id": "ZzpGW_e-4oA",
+          "title": "Wad Almzad - العزابي"
+        },
+        {
+          "id": "7DuSeO5W358",
+          "title": "WAD ALMZAD , ELAF ABD ALZIZ- ود المزاد ، ايلاف عبدالعزيز- ست الودع  [Prod By :- Mshakil Beats]"
+        },
+        {
+          "id": "a0bSo-i5c8Q",
+          "title": "Wad Almzad - Drama | ود المزاد - دراما [ prod By :- HamoBeatz ]"
+        },
+        {
+          "id": "GQnXo2u7RfE",
+          "title": "Wad Almzad- Halfa | ود المزاد - حلفا [Prod By :- Mshakil Beats]"
+        },
+        {
+          "id": "5UdBkYPMzbM",
+          "title": "Wad Almazad , Amjad saber | SAMRA  [ prod by :  Mshakil beatz ] ود المزاد ، أمجد صابر | سمراء"
+        },
+        {
+          "id": "U2P-Mufjds4",
+          "title": "WAD ALMZAD - ZOZO  |  ود المزاد - زوزو [Prod By :- Mshakil Beats]"
+        },
+        {
+          "id": "MOJS196Vd_A",
+          "title": "Wad Almzad x BAYOOMY | شادي الرحيل  prod. Mshakil Beats"
+        },
+        {
+          "id": "Ev2VHLOgrIc",
+          "title": "Wad Almzad - Seen Hazeen ود المزاد - سين حزين (Official Video)"
+        },
+        {
+          "id": "qhtNgjSW6Rg",
+          "title": "Wad Almzad - Jaksa ود المزاد - جكسا (Official Video)"
+        },
+        {
+          "id": "vk_5lpmz8b4",
+          "title": "Wad Almzad - Entaht 2 ود المزاد - إنتهت ٢ (Official Audio)"
+        },
+        {
+          "id": "id9wAnoHwzs",
+          "title": "Wad Almzad x ARF - Dunia Fan ود المزاد و أشرف - دنيا فان (Official Audio)"
+        },
+        {
+          "id": "cYWrDv5f1uk",
+          "title": "Wad Almzad - Bidoon Jenhain ود المزاد - بدون جنحين (Official Video)"
+        }
+      ],
+      "socials": {
+        "youtube": "https://www.youtube.com/@wadalmzad",
+        "tiktok": "https://www.tiktok.com/@wad_almzad"
+      }
+    },
+    {
+      "id": "a-o-a",
+      "name": "A.o.A",
+      "nameAr": "A.o.A",
+      "channelId": "UCxrCelBsnJwOqTqILJCW_Ig",
+      "handle": "@AoA_249",
+      "avatar": "https://yt3.googleusercontent.com/d_t3GZ2FGGtNURa5znzEiS1qYn8_BbeHMAA9wb27kMMUo4xl4iqDzrY5FSDa-WxtMKxqqUuOlUw=s900-c-k-c0x00ffffff-no-rj",
+      "videos": [
+        {
+          "id": "yPFGwNcx_Kc",
+          "title": "24 قيراط _ A.o.A"
+        },
+        {
+          "id": "c6ku2PdamC8",
+          "title": "حسينا | A.o.A 🌨️"
+        },
+        {
+          "id": "2CDGpTPvfk0",
+          "title": "بقى ليك بمبي | A.o.A"
+        },
+        {
+          "id": "P7i3FnXDf5Y",
+          "title": "المريود | A.o.A"
+        },
+        {
+          "id": "GKk1jchXLGI",
+          "title": "موهيتو _ Mojito _ A.o.A"
+        },
+        {
+          "id": "jw7ttNDLCss",
+          "title": "ثابت الاركان | ( A.o.A ( prod by Hamobeatz"
+        },
+        {
+          "id": "vdFCbQvuBoQ",
+          "title": "سلام | A.o.A"
+        },
+        {
+          "id": "3M65dYFEIWI",
+          "title": "مشتاق | prod by hamobeatz ) | A.o.A )"
+        },
+        {
+          "id": "UOyg2UTx_M4",
+          "title": "ارواح | A.o.A"
+        },
+        {
+          "id": "QlNmvB20RoQ",
+          "title": "( prod by hamobeatz ) A.o.A ايام"
+        },
+        {
+          "id": "uGobromLu8w",
+          "title": "سجون | A.o.A"
+        },
+        {
+          "id": "gF3zVEx3OS8",
+          "title": "وطن | A.o.A"
+        }
+      ],
+      "socials": {
+        "youtube": "https://www.youtube.com/@aoa_249",
+        "tiktok": "https://www.tiktok.com/@aoa_249",
+        "facebook": "https://www.facebook.com/aoa.rap"
+      }
+    },
+    {
+      "id": "toodope",
+      "name": "TooDope",
+      "nameAr": "تو دوب",
+      "channelId": "UCPXQPjVhPO5e9PITesvlh1g",
+      "handle": "@toodope249",
+      "avatar": "https://yt3.googleusercontent.com/fhYn9muchwPhEsXnp4mzik6MDhkjbNjLpL96hZHqHNPnjIU6GkDu_pNkZsHRzFQv9pMygqabSw=s900-c-k-c0x00ffffff-no-rj",
+      "videos": [
+        {
+          "id": "1qJ6ubHAgIY",
+          "title": "Zaniga - TooDope X Lbandy"
+        },
+        {
+          "id": "sJVefh-59uA",
+          "title": "HiM - TooDope (Prod.By AimanGotTheSauce)"
+        },
+        {
+          "id": "d5Xo_yHYN5g",
+          "title": "200 - TooDope (Prod.By X10b)"
+        },
+        {
+          "id": "3-xT7qdBGeA",
+          "title": "SHIFIT - TooDope (Prod. by Sammany) OFFICIAL MUSIC VIDEO"
+        },
+        {
+          "id": "Uljb_GlnY7g",
+          "title": "SHIFIT - TooDope (Prod. by @sammanyhajo ) | OFFICIAL AUDIO"
+        },
+        {
+          "id": "1PhzPE23vGg",
+          "title": "Apocalypto - @toodope249   #حفر_ميوزيك (Prod.by LBandy)"
+        },
+        {
+          "id": "KMaAcnlTd0I",
+          "title": "Majestic - TooDope (Prod.By Rebel Da 504) #حفر_ميوزك"
+        },
+        {
+          "id": "wSC9cZwwPng",
+          "title": "Shaggi Majnoon - TooDope (شقي ومجنون) #حفر_ميوزيك"
+        },
+        {
+          "id": "_i9elksnYf0",
+          "title": "249TooDope - Ayo (freestyle)"
+        },
+        {
+          "id": "FAJQW5Pzn7c",
+          "title": "لِسّهْ - TooDope (Prod by. MoSauce) - Lissa"
+        },
+        {
+          "id": "KcCBi-EuJZ8",
+          "title": "#4 Ends - TooDope X roTation #iNjaz"
+        },
+        {
+          "id": "zmFcwJzfBdI",
+          "title": "#3 Sytara - TooDope X roTation #iNjaz"
+        }
+      ],
+      "socials": {
+        "youtube": "https://www.youtube.com/@toodope249",
+        "facebook": "https://web.facebook.com/tay609"
+      }
+    },
+    {
+      "id": "awabtherapper",
+      "name": "AwabTheRapper",
+      "nameAr": "أواب",
+      "channelId": "UCa1dLqm5HzhYknrlndtxFFg",
+      "handle": "@Awabtherapper249",
+      "avatar": "https://yt3.googleusercontent.com/QqQRiRczrFTfCip6t6lRlxiP6GjZ4dcbX_eyvkmr-Q6ZbRXwZuEIeeGYoL4gZ-qNmK6etVFW=s900-c-k-c0x00ffffff-no-rj",
+      "videos": [
+        {
+          "id": "gFUrTuqPlUc",
+          "title": "Awabtherapper - Last Player  العابث الأخير - أواب"
+        },
+        {
+          "id": "B-Czrk33MCg",
+          "title": "Awabtherapper - SOLO LEVELING  سولو ليفلنغ - أواب"
+        },
+        {
+          "id": "TKP3q-y_tyM",
+          "title": "Awabtherapper - SHWAR3IAT  شوارعيات - أواب"
+        },
+        {
+          "id": "TWVLaUYE5ac",
+          "title": "Awabtherapper - ANA MNO  أنا منو - أواب"
+        },
+        {
+          "id": "uqnEdgAmTo8",
+          "title": "Awabtherapper - FANAN  فنان - أواب"
+        },
+        {
+          "id": "NOwuu6XM8v0",
+          "title": "Awabtherapper - Netero | نيتيرو — أواب [Moyssar M&M]"
+        },
+        {
+          "id": "QEd8B0SMTAY",
+          "title": "Art Block | Awabtherapper | ارت بلوك | أواب [Moyssar M&M]"
+        },
+        {
+          "id": "E3zwe7W5wzI",
+          "title": "Ctrl A كنترول - Awabtherapper | أواب [Ninja249]"
+        },
+        {
+          "id": "HbnTcQnntmc",
+          "title": "LOCA - Awabtherapper | لوكا - أواب [Finale]"
+        },
+        {
+          "id": "P0wfl2cPwd4",
+          "title": "Hababak - Awabtherapper X Ksha (Official Lyrics Video) حبابك | أواب و كشه [Ninja249]"
+        },
+        {
+          "id": "LP8hY7EdISA",
+          "title": "Mr. Hip Hop - Awabtherapper (Official Music Video) مستر هيب هوب - أواب  [NINJA249]"
+        },
+        {
+          "id": "4OaeiUC-3z0",
+          "title": "Awabtherapper - Mrs. Hip Hop (Official Music Video) مسز هيب هوب - أواب  [MOH ABD0O]"
+        }
+      ],
+      "socials": {
+        "tiktok": "https://www.tiktok.com/@awabatif"
+      }
+    },
+    {
+      "id": "g-x",
+      "name": "G.X",
+      "nameAr": "جي إكس",
+      "channelId": "UCdLoQkVYmddAlr-rkDQCMYw",
+      "handle": "@AliG.x",
+      "avatar": "https://yt3.googleusercontent.com/JyvN41ai6T9lCcD_-o0Qxs3pRuz3-PwXzu-Mas3s9Vau-nSIWn51j2_3DiLwuQMJkZ7lPr3S=s900-c-k-c0x00ffffff-no-rj",
+      "videos": [
+        {
+          "id": "czFNnEUNrig",
+          "title": "Ali G.X - 7nk beesh | حنك بيش ( Official Audio )"
+        },
+        {
+          "id": "yw68Q4Khg4U",
+          "title": "@AoA_249  ft. G.X | Ganja - غنجة | ( Official Music Video )"
+        },
+        {
+          "id": "LDoKxdyYdMQ",
+          "title": "خَم الرَّمَاد - Ali G.X | official music video"
+        },
+        {
+          "id": "guOShUBsckQ",
+          "title": "Ali G.X - RDM | رَدِمْ - [ Diss Track ] Official audio"
+        },
+        {
+          "id": "Zt5f2KbWoMA",
+          "title": "G.X - Snitchez F.t Lil-Mezo | سنتشز - راب سوداني (Official audio)"
+        },
+        {
+          "id": "UGnSzuyVRuY",
+          "title": "Ali G.X ( جي اكس - راب سوداني )"
+        },
+        {
+          "id": "N-F6HYIHjMc",
+          "title": "Ali G.X f.t خوال مفلمين - Till i DIE راب سوداني (Prod.Greensch)"
+        },
+        {
+          "id": "CtRlWn6dAtE",
+          "title": "G.X f.t. Shaffata | OLD SCHOOL | راب سوداني 2020"
+        },
+        {
+          "id": "vZik2GcmJUM",
+          "title": "G.X f.t Rexus | Music Can't Stop | راب سوداني"
+        },
+        {
+          "id": "mKzAyTKQ5os",
+          "title": "راب سوداني ثوري - كبرا | Gx f.t Nejery (official video)"
+        },
+        {
+          "id": "f_0YcHXuwh8",
+          "title": "Ali G.x | live at Riyadh 2019 | اغنية تسقط بس حفل"
+        },
+        {
+          "id": "odESsYz6QeI",
+          "title": "تسقط بس | Ali G.X ft. Lil Mezo & Mr.Crazy | راب سوداني ثوري #تسقط_بس"
+        }
+      ]
+    },
+    {
+      "id": "a-g-nimeri",
+      "name": "A.G Nimeri",
+      "nameAr": "إيه جي نميري",
+      "channelId": "UClK6xWK8qCZkU5NBkHyAzQQ",
+      "handle": "@agnimeri",
+      "avatar": "https://yt3.googleusercontent.com/STeAY8mlAkUH3eso2uLNzmL81Jl3_0ZlmK3dxEH1YeHxJh1hlPHO7ofMJ64UOyTRICabrPNJ=s900-c-k-c0x00ffffff-no-rj",
+      "videos": [
+        {
+          "id": "-A1GcG6IBc8",
+          "title": "A.G - يا أبوي | Ya Aboy | Lyrics Video 2025"
+        },
+        {
+          "id": "CoElYGkXn4c",
+          "title": "A.G - خليها بالنية | Be Niah | Ft. Hyper | Official Music Video 2024 | 4K"
+        },
+        {
+          "id": "9Umzfa1W-cE",
+          "title": "A.G -  غني يا خرطوم | Ghany Ya Khartoum | محجوب شريف | Audio 2023 |"
+        },
+        {
+          "id": "UYBHmr2O_aU",
+          "title": "A.G - بيناتنا شي | Baynatna Shi | Official Music Video 2023 | 4K"
+        },
+        {
+          "id": "IZDAVNR0Hzc",
+          "title": "A.G - بلادي | Biladi  | Official Music Video 2019 | (4K)"
+        },
+        {
+          "id": "sp8FCh-oqlc",
+          "title": "A.G - سودان بدون كيزان  | Sudan Bidon-Kizan | Official Video 2019 | FULL HD"
+        },
+        {
+          "id": "0HagWFzVlx0",
+          "title": "A.G - 3askar | عسكر | Official Lyrics Video 2019 |"
+        },
+        {
+          "id": "Iw3cPQUKa1s",
+          "title": "شكرا على كل الدعوات و الدعم🙏"
+        },
+        {
+          "id": "eaBSPiXSN7w",
+          "title": "خليها بالنية 🔥 على الأبواب،👌🏼 خليكم قراب"
+        },
+        {
+          "id": "ZtAoKorudIo",
+          "title": "A.G - فترة #lets_talk_about_sudan"
+        },
+        {
+          "id": "k6OUN_x2GUE",
+          "title": "في القفص! 🎤 \"Unsilenced Voices of Sudan, echoing  this freestyle rap, 🇸🇩 #SudanRevolution"
+        },
+        {
+          "id": "NGku1IbrHrY",
+          "title": "مشيت و سبتا"
+        },
+        {
+          "id": "glw-oP0neCM",
+          "title": "#بيناتنا شي 🎬 | القصة بأختصار #عادي_نبدأ_تاني."
+        },
+        {
+          "id": "x37U7OuiWKY",
+          "title": "٤ حاجات ماحصل سمعتوها عن فيديو كليب بلادي ! 🇸🇩💙"
+        },
+        {
+          "id": "O-AT4nkhujQ",
+          "title": "لي ما رجعتا بي غنية ثورية؟!🧐 #249 #afrobeats"
+        },
+        {
+          "id": "XWxBhbflce8",
+          "title": "XWxBhbflce8"
+        }
+      ]
+    },
+    {
+      "id": "montiyago",
+      "name": "Montiyago",
+      "nameAr": "مونتياغو",
+      "channelId": "UCd3_6bCRXBE_fETQNTR2ITA",
+      "handle": "@montiyago",
+      "avatar": "https://yt3.googleusercontent.com/yJmy0bppSkYkTo6Lk6XhhQtrEAIu0eDqcRgjOqHqYQToFU6veD0EjQRqJ57ZrtxdaAUP9_Kb8w=s900-c-k-c0x00ffffff-no-rj",
+      "videos": [
+        {
+          "id": "lgEvk4Qhpu0",
+          "title": "MONTIYAGO - MAWAWEL | مونتياغو -  مَوَاوِيل (Prod. 77)"
+        },
+        {
+          "id": "94oWLVgliSI",
+          "title": "MONTIYAGO - SPENCER (VISUALIZER) | مونتياغو - سبنسر"
+        },
+        {
+          "id": "P7GScrOkv4Y",
+          "title": "MONTIYAGO - BLV (VISUALIZER) | مونتياغو - بيليڤ"
+        },
+        {
+          "id": "0HG_zQhb5Hg",
+          "title": "MONTIYAGO - ANA (VISUALIZER) | مونتياغو - انا"
+        },
+        {
+          "id": "srGWES4ix4s",
+          "title": "MONTIYAGO - RIRI (VISUALIZER) | مونتياغو - ريري"
+        },
+        {
+          "id": "rVvkOJw5EVY",
+          "title": "MONTIYAGO - MUD (OFFICIAL MUSIC VIDEO) | مونتياغو - مد"
+        },
+        {
+          "id": "Tp_tt6KANB0",
+          "title": "MONTIYAGO X KHAYYAT - MSTR (OFFICIAL VISUALIZER) | مونتياغو و خياط - مستر"
+        },
+        {
+          "id": "exr3W1nXIuw",
+          "title": "MONTIYAGO - JUST WANNA ROCK | مونتياغو - جست ونا روك (Prod. 77)"
+        },
+        {
+          "id": "H6kQX20zscQ",
+          "title": "MONTIYAGO - LA2TA (OFFICIAL VISUALIZER) | مونتياغو - لقطة"
+        },
+        {
+          "id": "P6QrLeeSDJ8",
+          "title": "MONTIYAGO - BARNABETA (OFFICIAL VISUALIZER) | مونتياغو - برنابيطا"
+        },
+        {
+          "id": "C9kBf-6Yzqc",
+          "title": "MONTIYAGO - MOSALSAL (OFFICIAL VISUALIZER) | مونتياغو - مسلسل"
+        },
+        {
+          "id": "UYu2OhlAVGc",
+          "title": "MONTIYAGO - MATAHA (OFFICIAL VISUALIZER) | مونتياغو - متاهة"
+        }
+      ],
+      "socials": {
+        "youtube": "https://www.youtube.com/@montiyago"
+      }
+    },
+    {
+      "id": "colo",
+      "name": "Colo",
+      "nameAr": "كولو",
+      "channelId": "UCv9j6uuDDvB6YAaUUiu0jYA",
+      "handle": "@Colo.mp3",
+      "avatar": "https://yt3.googleusercontent.com/qPkJTmTdXeS1z3thAhsUYU9ty8cQw6WySCrvFJeOpypBXPNvUbgqD5yOgMqxE-r_wke9L_XY=s900-c-k-c0x00ffffff-no-rj",
+      "videos": [
+        {
+          "id": "fO6I-LkQeQU",
+          "title": "‏COLO - AL REED (Prod by @249Flac)  | كولو - الريد"
+        },
+        {
+          "id": "lLfi7Ese2A4",
+          "title": "‏COLO - F9LA (Prod by @serougyyy) | كولو - فصلة"
+        },
+        {
+          "id": "edVUZOofw1g",
+          "title": "‏COLO - SAR7A (Ft.@3loosh.music046 ) (Prod by @Aminzjafar   ) |  كولو - سرحة مع علوش"
+        },
+        {
+          "id": "0OchAGSMDhc",
+          "title": "‏COLO - 7ADRAN (Ft.@EZ9music ) (Prod by SanforMusic  ) | كولو - حضران مع عزو"
+        },
+        {
+          "id": "BoiVi_kSeY4",
+          "title": "COLO - AW3A (Prod by @249Flac) | كولو - اوعى مع فلاك"
+        },
+        {
+          "id": "L83pN0qTKw0",
+          "title": "‏COLO - KHALANI (Ft.@Aminzjafar ) (Prod by @249Flac )  | كولو - خلاني مع جعفر امين"
+        },
+        {
+          "id": "WouoY5M7X8I",
+          "title": "‏Colo - BOOM BOOM Prod by @MshakilBeatz  (Official Music Video) | كولو- بوم بوم"
+        },
+        {
+          "id": "IYpqi3mhhus",
+          "title": "Colo - Ticket Prod. by @MshakilBeatz (Official Music Video) | كولو - تيكت"
+        },
+        {
+          "id": "-w0dXHXQSEI",
+          "title": "Colo - Beja Prod by @MshakilBeatz (Official Music Video) | كولو- بجا"
+        },
+        {
+          "id": "pjFfUJ6wX2E",
+          "title": "Colo - Malik? Prod by @MshakilBeatz (Official Lyrics Video) | كولو- مالك؟"
+        },
+        {
+          "id": "Fe6BRLIbJYk",
+          "title": "Colo - Ya5 Ana | Prod by @MshakilBeatz | كولو - ياخ أنا"
+        },
+        {
+          "id": "0Y7YawxX1b8",
+          "title": "COLO - Ice spice (Ft.Toodope) (Prod by Husvwvibes)  | كولو - ايس سبايس مع تودوب"
+        }
+      ]
+    },
+    {
+      "id": "lil-freeny",
+      "name": "Lil Freeny",
+      "nameAr": "ليل فريني",
+      "channelId": "UC75Peqf8t5LCHnHWk3ElfDQ",
+      "handle": "@LilFreeny",
+      "avatar": "https://yt3.googleusercontent.com/d-xCPt3jT59Zbu_8UYbZmISZ__Iiqs0YCeoNIQp_PbrAaBJK-d3clz9-qrFy8MhvgiCo6AUMpw=s900-c-k-c0x00ffffff-no-rj",
+      "videos": [
+        {
+          "id": "xAq32iRzY-8",
+          "title": "LIL FREENY - GALO | ليل فريني - قالو - (OFFICIAL MUSIC VIDEO)"
+        },
+        {
+          "id": "unwVxS8VCwI",
+          "title": "LIL FREENY - MAKANA | مكنة"
+        },
+        {
+          "id": "iAjwCSO3M9w",
+          "title": "LIL FREENY - K TOWN"
+        },
+        {
+          "id": "jxIpT-BIdO4",
+          "title": "LIL FREENY X TOODOPE - KIDA DA | كدا دا"
+        },
+        {
+          "id": "Swr3GrDP1CE",
+          "title": "Lil Freeny ft. EZ9 - KIDA | كدا"
+        },
+        {
+          "id": "Nh7vESDPkHw",
+          "title": "LIL FREENY X ELTHEEB - WALLAHI"
+        },
+        {
+          "id": "QywRQnMeo0g",
+          "title": "Lil Freeny - HURT"
+        },
+        {
+          "id": "Hcxqq4-b-Eo",
+          "title": "Lil Freeny - Freestyle | فريستايل"
+        },
+        {
+          "id": "cv3SWFWJDTo",
+          "title": "Lil Freeny - La La La | لا لا لا"
+        },
+        {
+          "id": "MywKan6kgSU",
+          "title": "African Child - Lil Freeny Ft. Mr. Enah"
+        },
+        {
+          "id": "O5bQzkS-xVc",
+          "title": "Lil Freeny X Ozzy Oz - Sudanese Queen"
+        },
+        {
+          "id": "H-bvFDnQNqY",
+          "title": "Lil Freeny X OZzy Oz - Afrobeat Crazy"
+        }
+      ],
+      "socials": {
+        "youtube": "https://www.youtube.com/@lilfreeny",
+        "tiktok": "https://www.tiktok.com/@lilfreeny"
+      }
+    },
+    {
+      "id": "nawawe",
+      "name": "Nawawe",
+      "nameAr": "نوووي",
+      "channelId": "UC2s4v13SXZJn4ShGxTd6E9Q",
+      "handle": "@NawaweMusic",
+      "avatar": "https://yt3.googleusercontent.com/ux97a4Ycy3AUnpT84HUZeaAtrauL7TDqdua-hphnE7-jkh64QoeTLi4LsYVbymJq0mUtRoXusQ=s900-c-k-c0x00ffffff-no-rj",
+      "videos": [
+        {
+          "id": "eHP7dTYatB8",
+          "title": "عثمان نووي - صنعتو مجرم | راب سوداني 2026"
+        },
+        {
+          "id": "ZmtlnCV833E",
+          "title": "عثمان نوووي و سامي سيف - نتلاقى وين   NAWAWE X SAMI SAIF - NETLAQA WAIN - (OFFICIAL LYRICS VIDEO)"
+        },
+        {
+          "id": "OfMKMqMfwGE",
+          "title": "Osman Nawawe - RAJ3EEN | عثمان نوووي - راجعين (OFFICIAL LYRIC VIDEO)"
+        },
+        {
+          "id": "8bjNlsU1_Kk",
+          "title": "🔥 Nawawe - \"قربت\" (Official Music Video) 🔥"
+        },
+        {
+          "id": "lQbBOm4bBMo",
+          "title": "Nawawe - 3AKES EL SEER  (Official Music Video) | عثمان نوووي - عاكس السير"
+        },
+        {
+          "id": "4xUtXHWPfIQ",
+          "title": "Nawawe - ما تتصدم (Official Audio)"
+        },
+        {
+          "id": "sb5LcnNmgYQ",
+          "title": "نوووي - بجي بليل (Official Music Video) | راب سوداني"
+        },
+        {
+          "id": "QxCiX5Sk6Lw",
+          "title": "نوووي - الحال اتغير - (الاغنية الرسمية) - NAWAWE - CHANGING  (OFFICIAL AUDIO)"
+        },
+        {
+          "id": "pFxaH9QoXy4",
+          "title": "Nawawe – The Castle (Official Audio) (2024) / نوووي - القلعة"
+        },
+        {
+          "id": "aZXfacnCBqI",
+          "title": "عثمان نوووي - ايكونك  || اغاني سودانية 2024"
+        },
+        {
+          "id": "0iVzLTdEMds",
+          "title": "نوووي - ود ناس (Official Audio)"
+        },
+        {
+          "id": "8WOc65Yfpdg",
+          "title": "عثمان نوووي - بينز (Official visualizer) Nawawe - Benz"
+        }
+      ]
+    },
+    {
+      "id": "ez9",
+      "name": "EZ9",
+      "nameAr": "EZ9",
+      "channelId": "UCc0ZJL7pLW5FhnN_KQBcTrA",
+      "handle": "@EZ9music",
+      "avatar": "https://yt3.googleusercontent.com/kEgTHKec1c37Ro9uFJGhAOTCjv_0DEWLKA_-HvFGKmexBLKVIyG7WbzzG46L1G7ZiuAA1Og9=s900-c-k-c0x00ffffff-no-rj",
+      "videos": [
+        {
+          "id": "9HVXm2Ahs7E",
+          "title": "EZ9 & COLO - ALARABYA ( prod. hamobeatz ) ( official audio )"
+        },
+        {
+          "id": "HvsQxMvR90M",
+          "title": "EZ9 - WRRR ( prod. hamobeatz ) ( Official Audio )"
+        },
+        {
+          "id": "kWIzaFnyr2Q",
+          "title": "EZ9 & Colo - MOROOOG (Prod. Mshakil) (Official Music Video)"
+        },
+        {
+          "id": "FXKVpwHoL6g",
+          "title": "EZ9 - ROMANA | عزو - رمانة  [PROD BY⁨‪@249Flac] (OFFICIAL MUSIC VIDEO)"
+        },
+        {
+          "id": "dxAeEydK3HM",
+          "title": "EZ9 BABOR JAAZ | عزو البابور جاز (official music video)"
+        },
+        {
+          "id": "YUPND4j6_QE",
+          "title": "EZ9 FT. 3ALOOSHH - 3ADEELA | عزو و علوش - عديلة [PROD BY @249Flac]"
+        },
+        {
+          "id": "FM23g_v1wJY",
+          "title": "EZ9 - ALBORTOKAN | عزو - البرتكان [PROD BY⁨ @249Flac]"
+        },
+        {
+          "id": "DM7cADNk0oo",
+          "title": "EZ9 SHLBY | عزو شلبي (official music video) prodby  @WISSY"
+        },
+        {
+          "id": "oCFTSl4DXAw",
+          "title": "EZ9 - NAS ALDONIA | عزو - ناس الدنيا [PROD BY⁨@WISSY] (OFFICIAL MUSIC VIDEO)"
+        },
+        {
+          "id": "v5nV7fsSwYs",
+          "title": "EZ9 - MILUNA | عزو - ميلونا [PROD BY@WISSY ] (OFFICIAL MUSIC VIDEO)"
+        },
+        {
+          "id": "eBFYrSofcXg",
+          "title": "EZ9 FT. WISSY - LAMINE YAMAL | عزو و ويسي - لامين يامال [PROD BY@WISSY]"
+        },
+        {
+          "id": "C2YQq75eyl4",
+          "title": "EZ9 FT. COLO  - AL-AMAN | عزو و كولو - الامان"
+        }
+      ]
+    },
+    {
+      "id": "connan",
+      "name": "Connan",
+      "nameAr": "كونان",
+      "channelId": "UC341H0-TznnV50bS7GV8Uww",
+      "handle": "@connanofficial",
+      "avatar": "https://yt3.googleusercontent.com/X6JtYlikgLlrQxsiEfeB8GizX1_gjdn5ikiD4x9R392D7cg8LD3PafT4SUA3F-_UxRQD_Z-0=s900-c-k-c0x00ffffff-no-rj",
+      "videos": [
+        {
+          "id": "igb6HHTLGkg",
+          "title": "Connan - Bygolo | كونان - بيقولو (Official Audio)"
+        },
+        {
+          "id": "bWwxkdo9i3s",
+          "title": "Connan X Hleem Taj Alser - SHIFT ( Official Music Video )  حليم - شفت x كونان"
+        },
+        {
+          "id": "xwpxKhEzyQc",
+          "title": "Connan - Gang Gang | كونان (Official Audio)"
+        },
+        {
+          "id": "H_3HWOpJ09I",
+          "title": "Connan - Tani | كونان - تاني  (Prod.Hamobeatz) (Visualizer)"
+        },
+        {
+          "id": "Z1ykDt7NguY",
+          "title": "Connan - One Plus One | 1+1 - كونان (Prodby @MshakilBeatz)"
+        },
+        {
+          "id": "FnU6qE2YTk4",
+          "title": "Connan - Matab | كونان - مطب (Official Music Video)"
+        },
+        {
+          "id": "CvjlOLq-vDw",
+          "title": "Connan - Star | كونان - ستار (Official Music Video)"
+        },
+        {
+          "id": "OLOy4FtFh5Y",
+          "title": "Connan - Maeraka  |  كونان - معركه  (Official Audio) ( INTRO )"
+        },
+        {
+          "id": "67uzZGPs4XI",
+          "title": "Connan - Movie | كونان - موڤي (Official Audio)"
+        },
+        {
+          "id": "GDIY5It7FB0",
+          "title": "Connan - Liga | كونان - ليغا (Official Music Video)"
+        },
+        {
+          "id": "pF0KG-MScDE",
+          "title": "Connan ft @Melloprods  - Royalty | كونان و ميلو - رويالتي (Official Audio)"
+        },
+        {
+          "id": "aTKVD2lK-e8",
+          "title": "Connan - Liga | كونان - ليغا (Official Audio)"
+        }
+      ],
+      "socials": {
+        "youtube": "https://www.youtube.com/@connanofficial"
+      }
+    },
+    {
+      "id": "sharara",
+      "name": "Sharara",
+      "nameAr": "شرارة",
+      "channelId": "UCJtunwAZPAKjeziBmQBBHgA",
+      "handle": "@Sharara_Official",
+      "avatar": "https://yt3.googleusercontent.com/XOtwhoEL8zqJvDmfXKUNfl1U4vJckUWoJSp7Obvmoh-0QGNKSlF5u1aRDohuPa3tnC0LEXchLw=s900-c-k-c0x00ffffff-no-rj",
+      "videos": [
+        {
+          "id": "wfWX7qsCS1o",
+          "title": "Sharara - شراره | Dopamine - دوبامين (official Music video)"
+        },
+        {
+          "id": "Z723zc2tTao",
+          "title": "Sharara - 48 bars / شراره -48 بار (official Music Video"
+        },
+        {
+          "id": "qk_9M5L3nsw",
+          "title": "Sharara - Donia -  دنيا  - شرارهFt. Halawis (Official Music video)"
+        },
+        {
+          "id": "lDdCXlvcm3c",
+          "title": "Sharara - شراره | Dopamine - دوبامين (official Music)"
+        },
+        {
+          "id": "gJ_ptyGPSi0",
+          "title": "Sharara - Hajj youssef | شراره - حاج يوسف(Official Music Video )"
+        },
+        {
+          "id": "VbGi6Pw-vIo",
+          "title": "Sharara - Reject | شراره - رفض (Official Music Video)"
+        },
+        {
+          "id": "cX4HMtJyDqM",
+          "title": "Sharara - Fake | شرارة - زِيف (Official Music Video)"
+        },
+        {
+          "id": "UMQRmpZrKdo",
+          "title": "Sharara - Patience | شرارة -  صبر (Official Music Video)"
+        },
+        {
+          "id": "FOfNxCtTPNk",
+          "title": "Sharara - Mojiza | شراره - معجزه ( Official Music Video )"
+        },
+        {
+          "id": "buBhIv_h9zo",
+          "title": "Sharara - Pluto | شرارة - بلوتو  (Official Music Video)"
+        },
+        {
+          "id": "oiY9890I8Ho",
+          "title": "SHARARA | KHAWNA ( Official Music Video)شرارة | خونه"
+        },
+        {
+          "id": "YesDOQTpwvI",
+          "title": "Sharara - Hulagu | شرارة - هولاكو (Official Music Video)"
+        }
+      ]
+    },
+    {
+      "id": "walgz",
+      "name": "Walgz",
+      "nameAr": "والقز",
+      "channelId": "UCQ2aSHVvHnYID2rI7MvLXag",
+      "handle": "@walgz_",
+      "avatar": "https://yt3.googleusercontent.com/nIJ-ifPRonnhwr0gNR5lUMkYGLhwNsaN4aeN9M7gD7bYKTcVLB5zE56oL7xfAc9hxGv9-899=s900-c-k-c0x00ffffff-no-rj",
+      "videos": [
+        {
+          "id": "0guEM-wrXi0",
+          "title": "Walgz - Asyad Al Lwari | ولجيز - أسياد اللواري"
+        },
+        {
+          "id": "ZzhCVkWhls0",
+          "title": "Walgz & Ntitled - Bard El-Shita (Official Music Video)"
+        },
+        {
+          "id": "xXddsIeN0ig",
+          "title": "Walgz – Walgenic | ولجينك (Prod. Ntitled)"
+        },
+        {
+          "id": "59N1V1mDV0c",
+          "title": "Walgz - Mashi (Official Audio) | ولجيز - ماشي"
+        },
+        {
+          "id": "NiIyyAwgtS8",
+          "title": "Walgz - Shimal ft. Tmsa7 (Official Audio) | ولجيز وتمساح - شمال"
+        },
+        {
+          "id": "G5DmYir5OnE",
+          "title": "Walgz - Layali (Official Audio) | ولجيز - ليالي"
+        },
+        {
+          "id": "dIYPsamhn30",
+          "title": "Walgz - Dori (Official Music Video) | ولجيز - دوري"
+        },
+        {
+          "id": "_bbLjrDc0jw",
+          "title": "Walgz - Ola'la (Official Music Video) l ولجيز - اولا لا"
+        },
+        {
+          "id": "Pd_DLy1Tyt0",
+          "title": "Walgz - Malafat (Official Music Video) | ولجيز - ملفات"
+        },
+        {
+          "id": "TUhs201EbMo",
+          "title": "Walgz - Sana (Official Music Video) | ولجيز - سنة"
+        },
+        {
+          "id": "ZS1O-9bnvW0",
+          "title": "Walgz - Marsa (Official Audio) | ولجيز - مرسى"
+        },
+        {
+          "id": "Xz0-kxNl-8Y",
+          "title": "Walgz x Ntitled - Moya Wa Zait (Official Audio) | موية و زيت"
+        }
+      ],
+      "socials": {
+        "youtube": "https://www.youtube.com/@walgz_"
+      }
+    },
+    {
+      "id": "nas-jota",
+      "name": "Nas Jota",
+      "nameAr": "ناس جوتا",
+      "channelId": "UCBgRW7k-3x0SwQwPnuL_Cvw",
+      "handle": "@NasJota",
+      "avatar": "https://yt3.googleusercontent.com/hZTXlaDnA88otBhF4oQoRvOZiW85I2IUslAVwnImg1MUOYvJd-dt_m5h3eczxlBWWsSSm7OpQg=s900-c-k-c0x00ffffff-no-rj",
+      "videos": [
+        {
+          "id": "itilDxNsPhs",
+          "title": "ملوك الصفر | ناس جوطة - Nas Jota | Kings of  Cypher"
+        },
+        {
+          "id": "_Nxv0-ubSUI",
+          "title": "\"Abbas\" - A short film about Sudanese immigrants in Calais(France)"
+        },
+        {
+          "id": "dZZeFpxSAxo",
+          "title": "Ghani Lil Horya (Sing for Freedom) - NasJota feat. Shaden   غني للحرية -  ناس جوطة بمشاركة شادن"
+        },
+        {
+          "id": "ji1idO2dZKA",
+          "title": "F the Gov."
+        },
+        {
+          "id": "1j1NZgm4Rnw",
+          "title": "Eagle - NasJota feat. Jasmina"
+        },
+        {
+          "id": "G-z0tpo33Gk",
+          "title": "Mo Ali | Nas Jota | Ramiz Siraj. اقعد في البيت"
+        },
+        {
+          "id": "xvOwMhhxayQ",
+          "title": "PM Hamdok & the Sudanese American Community"
+        },
+        {
+          "id": "Ga-uwgh23vw",
+          "title": "PM Hamdok meeting with Uokana.  لقاء رئيس الوزراء عبدالله حمدوك بيوكانا"
+        },
+        {
+          "id": "_EUyp3aCUmo",
+          "title": "GreensBoro NC USA event MaBiksrook  ما بكسروك"
+        },
+        {
+          "id": "Sqy2SjniS8I",
+          "title": "GreensBoro NC USA event حلوة يا بلدي"
+        },
+        {
+          "id": "rukj7sNgzr0",
+          "title": "GreensBoro NC USA event مليون سلام يا شعبنا"
+        },
+        {
+          "id": "kBdnT45kDgM",
+          "title": "GreensBoro NC USA event - Bullet.        رصاصة حية"
+        }
+      ]
+    },
+    {
+      "id": "tageel",
+      "name": "Tageel",
+      "nameAr": "تقيل",
+      "channelId": "UCUavcmZZKnCuDf4E-4gbcLw",
+      "handle": "@ta8eel",
+      "avatar": "https://yt3.googleusercontent.com/u39RINHQGCbf52d0i328AqaeAOa41O81GoLoo04Er3OkteVKV_-Xt8Mocr1SVJdaGAK3gCEu=s900-c-k-c0x00ffffff-no-rj",
+      "videos": [
+        {
+          "id": "9lRQzHIW1cs",
+          "title": "Tageel, Mvndila - GAMRA (Official Music Video) | تقيل مع مانديلا - قمرة"
+        },
+        {
+          "id": "E9RRa_P0wRE",
+          "title": "Tageel, Mvndila - SHAGI W NDEEM (Official Music Video) | تقيل مع مانديلا - شقي و نديم"
+        },
+        {
+          "id": "D44k53XHl5w",
+          "title": "Tageel, Mvndila - CULTURE (Official Music Video) | تقيل مع مانديلا - كلتشر"
+        },
+        {
+          "id": "zjOFe4Eu6dA",
+          "title": "All-moony - XOB Interlude (Official Audio) | اول موني - اكس او بي انترلود"
+        },
+        {
+          "id": "VJoPqFsNoQ0",
+          "title": "Tageel, Mvndila - BAHIHI (Official Audio) | تقيل، مانديلا - بحيحي"
+        },
+        {
+          "id": "b3lzALd9fKI",
+          "title": "Tageel ft. roTation - Wagif, Jari | تقيل مع روتيشن - واقف، جاري (Official Visualizer)"
+        },
+        {
+          "id": "vjVQr31vNRM",
+          "title": "Tageel - Barak | تقيل - براك"
+        },
+        {
+          "id": "RfX4umw92aU",
+          "title": "Tageel - Rasya | تقيل - راسية"
+        },
+        {
+          "id": "KFt1qrapftA",
+          "title": "Tageel - Bunna | تقيل - بنة"
+        },
+        {
+          "id": "mW-uUY7wlP4",
+          "title": "Tageel - Katma | تقيل - كاتمة"
+        },
+        {
+          "id": "8BB4A9WiNPw",
+          "title": "Mvndila - Aya Interlude |  مانديلا - اية انترلود"
+        },
+        {
+          "id": "D7EPK8g6mbo",
+          "title": "Tageel - PRO MAX (Official Music Video) | تقيل - برو ماكس"
+        }
+      ]
+    },
+    {
+      "id": "hyper",
+      "name": "Hyper",
+      "nameAr": "هايبر",
+      "channelId": "UCK9wFIZwk1oL1zMmRZqFWgw",
+      "handle": "@Hyper_249",
+      "avatar": "https://yt3.googleusercontent.com/K6nzJ4BgSpPjkOLYqSb9Y8ECFteNRac28InWASJ4R7-jsogQea26Mmm7261pfwiJ-nU4oLgbdSc=s900-c-k-c0x00ffffff-no-rj",
+      "videos": [
+        {
+          "id": "5RbsrCyIn3Y",
+          "title": "Hyper x Cymona - Al5am (Official Music Video) | هايبر & سيمونا - الخام"
+        },
+        {
+          "id": "Ni2MF59eS0Q",
+          "title": "Hyper - 3omlat ft. TooDope & Cymona (Official Visualizer) | هايبر - عملات"
+        },
+        {
+          "id": "CGtV3viQMRg",
+          "title": "Hyper - Na8is ft. Cactus & Cymona (Official Audio) | هايبر - ناقص مع كاكتس و سيمونا"
+        },
+        {
+          "id": "YUEZtGY91Zo",
+          "title": "Hyper - El3eed 3yonek ft. MaMan & Cymona (Official Music Video) | هايبر - العيد عيونك"
+        },
+        {
+          "id": "OD9HYpb4a04",
+          "title": "Hyper - MON7DR ft. Tageel & Cymona (Official Audio) | هايبر - منحدر مع تقيل و سيمونا"
+        },
+        {
+          "id": "jEXmlmxse2s",
+          "title": "Hyper x Cymona - Allah y8fer (Official Audio) | هايبر & سيمونه - الله يغفر"
+        },
+        {
+          "id": "PD_AFi5RuZM",
+          "title": "Hyper x Cymona - Anteeka (Official Audio) | هايبر & سيمونه - انتيكا"
+        },
+        {
+          "id": "MWev-w9PGA0",
+          "title": "Hyper x Cymona - Sadamat (Official Audio) | هايبر & سيمونه - صدمات"
+        },
+        {
+          "id": "xkPI6AFynLg",
+          "title": "Hyper x Cymona - Keef (Official Audio) | هايبر & سيمونه - كيف"
+        },
+        {
+          "id": "bENhNIQyarw",
+          "title": "Hyper x Cymona - Bageb w brg3 (Official Audio) | هايبر & سيمونه - بغيب و برجع"
+        },
+        {
+          "id": "KXu64Fn_S7g",
+          "title": "Hyper x Cymona - Naplion (Official Audio) | هايبر & سيمونه - نابليون"
+        },
+        {
+          "id": "DppTIRbufHI",
+          "title": "Hyper x Cymona - Belgeky (Official Audio) | هايبر & سيمونه - بلجيكي"
+        }
+      ]
+    },
+    {
+      "id": "black-gak",
+      "name": "Black Gak",
+      "nameAr": "بلاك قاك",
+      "channelId": "UCOCAlWFArIiRC1KXoXkBlJg",
+      "handle": "@black.gak_",
+      "avatar": "https://yt3.googleusercontent.com/ezQ4EjuCKDVAk0o6vXs31uKTk39_lrP7nXYvzAX5SNQn1hsThK_lhUzI4FHnPxWhb_mOTYkrEA=s900-c-k-c0x00ffffff-no-rj",
+      "videos": [
+        {
+          "id": "Fad9-zNkFCI",
+          "title": "Black Gak - زيت [Official Music Video]"
+        },
+        {
+          "id": "N--3CKAb7zg",
+          "title": "زيت"
+        },
+        {
+          "id": "WWWK2VzpTIw",
+          "title": "باكوبي"
+        },
+        {
+          "id": "sFiStYdDPdY",
+          "title": "نچللي"
+        },
+        {
+          "id": "En-FasQ-LfM",
+          "title": "3٣٠"
+        },
+        {
+          "id": "cG6Mpx1XWZA",
+          "title": "Double"
+        },
+        {
+          "id": "zgszLuVJjas",
+          "title": "بّرجَع ليٰكٓ"
+        }
+      ]
+    },
+    {
+      "id": "esaam-satti",
+      "name": "Esaam Satti",
+      "nameAr": "عصام ساتي",
+      "channelId": "UCijVz9FIG2FpbD5dFrOqhdA",
+      "handle": "@esaamsatti",
+      "avatar": "https://yt3.googleusercontent.com/aurDV69_86Sw8TsrY5rca6RigxXT58D8QzbJLF2G0mgBUUAUi3TBbUhygI-5zF6Lu56cNICYlw=s900-c-k-c0x00ffffff-no-rj",
+      "videos": [
+        {
+          "id": "_owfv1ZDZpc",
+          "title": "Esaam Satti X Ali Naseraldeen - Bint alnbi عصام ساتي و علي نصرالدين - بنت النبي prod.by OmdaBeats"
+        },
+        {
+          "id": "4g0GmKDhue0",
+          "title": "عصام ساتي و عمدة بيتس في الاستديو"
+        },
+        {
+          "id": "fAFYlT4hqik",
+          "title": "Sada Lon Khamri  سادة لون خمري out now in all platforms #support #sudan"
+        },
+        {
+          "id": "w2QD_haTu-I",
+          "title": "فريستايل مع @morwan shady على السريع #اكسبلور #راب_سوداني"
+        },
+        {
+          "id": "A1spntCbOg8",
+          "title": "#بنت_النبي خلف كواليس الانتاج اللوحه الفنيه"
+        },
+        {
+          "id": "YYW8JD7ggco",
+          "title": "فاطمه#بنت_النبي #esaam_satti #اكسبلور #shorts"
+        },
+        {
+          "id": "ptyaLTt_sNU",
+          "title": "باقي اللبوم سودنو حتتوقعوه حيكون كيف #بنت_النبي #esaam_satti #shorts"
+        },
+        {
+          "id": "wEv7sb7Z6jQ",
+          "title": "حبً في #الرسول و حباً في فاطمه #بنت_النبي تحقق 100k في اول يوم ليها#beirutmarathon #تيك_توك #music"
+        },
+        {
+          "id": "ucQ8WaKJD-o",
+          "title": "#بنت_النبي #اكسبلور #esaam_satti"
+        },
+        {
+          "id": "qziy2AHcI68",
+          "title": "#بنت_النبي  تحقق التريد في الوطن العربي وشمال افريقيا من انطلاقها #esaam_satti #اكسبلور #عصام_ساتي"
+        },
+        {
+          "id": "H0furTZlnQc",
+          "title": "بنت النبي - عصام ساتي & علي نصر الدين #بنت_النبي #esaam_satti #اكسبلور"
+        },
+        {
+          "id": "-0u13da5pIs",
+          "title": "بنت النبي #esaam_satti #بنت_النبي #اكسبلور"
+        },
+        {
+          "id": "CX66q7vyDmw",
+          "title": "قريبا اغنية بنت النبي - عصام ساتي و علي نصرالدين #esaam_satti"
+        }
+      ]
+    },
+    {
+      "id": "ghayaz-alagha",
+      "name": "Ghayaz Alagha",
+      "nameAr": "غياظ الأغا",
+      "channelId": "UC4IEuHe9jBNKRMaA4Bon9nQ",
+      "handle": "@ghayazalagha",
+      "avatar": "https://yt3.googleusercontent.com/zkiWo7TLYBNX17zUFSPkdWYjnTyW4aAYeEo54VUuA5iQg4x8ZIX4LHqHL1gBUIY9FW0iEaajSA=s900-c-k-c0x00ffffff-no-rj",
+      "videos": [
+        {
+          "id": "DwKX97voKAk",
+          "title": "Ghayaz Alagha - Seed Alwjaha ft. Raghad (Prod. NINJA249) | غياظ الأغا و رغد - سيد الوجاهة"
+        },
+        {
+          "id": "Blr3VGc3_7w",
+          "title": "Bs T3ali - بس تعالي | Ghayaz Alagha x @HamoBeatz  (Official Music Video)"
+        },
+        {
+          "id": "YmMLPBQdErM",
+          "title": "El Ezzba - العِزبة | Ghayaz Alagha x HamoBeatz (Diss Track)"
+        },
+        {
+          "id": "r7R93eUCBhc",
+          "title": "Ghayaz Alagha - Modmak  (Official Video ) - Prod by Mshakil Beats  | غياظ الآغا - مدماك"
+        },
+        {
+          "id": "KGFZwLXw-W8",
+          "title": "Ghayaz Alagha , EZ9 - Contesa  (Official Audio, Prod by NINJA249) | غياظ الآغا , عزو - كونتيسا"
+        },
+        {
+          "id": "i7yEUoFCL4w",
+          "title": "Ghayaz Alagha - Jan  (Official Audio, Prod by NINJA249) | غياظ الآغا - جان"
+        },
+        {
+          "id": "fmh7MV-0VdQ",
+          "title": "Ghayaz Alagha - Lola  (Official Audio, Prod by NINJA249) | غياظ الآغا - لولا"
+        },
+        {
+          "id": "E6cYakva3hA",
+          "title": "Ghayaz Alagha - Bow (Official Music Video) Prod by Batinikdb | غياظ الآغا - بو"
+        },
+        {
+          "id": "wDdhqzndjjM",
+          "title": "غياظ الاغا | أراضي كوش (Official Music Video) Ghayaz Alagha | Kingdom Of Kush"
+        }
+      ]
+    },
+    {
+      "id": "beykay",
+      "name": "Beykay",
+      "nameAr": "بيكاي",
+      "channelId": "UCVp77RMIwYjMD5gqEbxOYrw",
+      "handle": "@Beykay",
+      "avatar": "https://yt3.googleusercontent.com/3U1ZsyNlvV4M-P8lSpqPHlj956wcR59xltt14-WuYVFs0acvwkPlcBJ8H_VYzp_A81HTQ8A9=s900-c-k-c0x00ffffff-no-rj",
+      "videos": [
+        {
+          "id": "PVub5Sx7y5g",
+          "title": "Beykay - Circles ft. roTation (Official Visualizer) | بي كيه مع روتيشن - سيركلز"
+        },
+        {
+          "id": "SfEPV8LTj7A",
+          "title": "Beykay - Figures (Official Music Video) | بي كيه - فيقرز"
+        },
+        {
+          "id": "DUj_9Afbc2U",
+          "title": "Beykay - Ghareeza Freestyle | بي كيه - غريزة (Official Music Video)"
+        },
+        {
+          "id": "gzp1EpPtcC4",
+          "title": "Beykay - Bakumba Freestyle | بي كيه - باكمبا (Official Music Video)"
+        },
+        {
+          "id": "_OYgjucjmYY",
+          "title": "Beykay - LHT Freestyle | بي كيه - لهط (Official Music Video)"
+        },
+        {
+          "id": "Q9L6pGNpVfE",
+          "title": "Beykay - Hoot Freestyle | بي كيه - حوت (Official Music Video)"
+        },
+        {
+          "id": "kkNHdrjEuKA",
+          "title": "Beykay - Lissa Freestyle | بي كيه - لسه (Official Music Video)"
+        },
+        {
+          "id": "PfM8hbyTx_M",
+          "title": "Beykay - Try l بي كيه - تراي (Official Music Video)"
+        },
+        {
+          "id": "LHme-QqXmgw",
+          "title": "Beykay - Qisas Al Shoub Freestyle | بي كيه - قصص الشعوب (Official Music Video)"
+        },
+        {
+          "id": "b_NDeBbSLv8",
+          "title": "Beykay - Koomsari Al Bus | بي كيه - كمساري البص (Official Music Video)"
+        },
+        {
+          "id": "dbshCIUZM84",
+          "title": "Beykay - طوفان Towafan ft. Samar Bengawi (Official Audio)"
+        },
+        {
+          "id": "Cw7zUOVu-b0",
+          "title": "Beykay - Al Am Deebu Freestyle | بي كيه - العم ديبو (Official Music Video)"
+        }
+      ]
+    },
+    {
+      "id": "dua-saleh",
+      "name": "Dua Saleh",
+      "nameAr": "دعاء صالح",
+      "channelId": "UCWyVZWBEQzovk5kprhNkWKQ",
+      "handle": "@doitlikedua",
+      "avatar": "https://yt3.googleusercontent.com/J8C6mVhwTdXXaKNCMEL36JUiVzqJ-pFFUxZbWLbNgZB2SyrvAqw2JLjMm1WF7nsLdwkl7O3b=s900-c-k-c0x00ffffff-no-rj",
+      "videos": [
+        {
+          "id": "h-UpIYxvlHw",
+          "title": "Dua Saleh - ALL IS LOVE (feat. aja monet) [Official Visualizer]"
+        },
+        {
+          "id": "idaHyEEyq64",
+          "title": "Dua Saleh - Speed Up (Official Visualizer)"
+        },
+        {
+          "id": "X_c1ZT21NdA",
+          "title": "Dua Saleh - B r e a t h e (Official Visualizer)"
+        },
+        {
+          "id": "KSfMtIEesgU",
+          "title": "Dua Saleh - Anemic (feat. Gaidaa) [Official Visualizer]"
+        },
+        {
+          "id": "JhYtXrsJ7aY",
+          "title": "Dua Saleh - 5 Days (Official Visualizer)"
+        },
+        {
+          "id": "IvdgzKNoP9Y",
+          "title": "Dua Saleh - Firestorm (Official Video)"
+        },
+        {
+          "id": "of2pK1TnXwQ",
+          "title": "Dua Saleh - Cállate (Official Video)"
+        },
+        {
+          "id": "3G3zyKKM_Ss",
+          "title": "Dua Saleh - I Do, I Do (Official Video)"
+        },
+        {
+          "id": "CEhonZuaJTc",
+          "title": "Dua Saleh - Glow (feat. Bon Iver) [Official Video]"
+        },
+        {
+          "id": "t_z4UdzxJuA",
+          "title": "Dua Saleh - Flood (feat. Bon Iver) [Official Visualizer]"
+        },
+        {
+          "id": "aiqbv-A9JKY",
+          "title": "Dua Saleh - want | Live from Vevo Studios"
+        },
+        {
+          "id": "jwlJPCsXw0Y",
+          "title": "Dua Saleh - chi girl | Live from Vevo Studios"
+        }
+      ]
+    },
+    {
+      "id": "maman",
+      "name": "MaMan",
+      "nameAr": "مامان",
+      "channelId": "UCBUFczaJ6E3IDdSy8Xt5Fow",
+      "handle": "@Mamanthereal249",
+      "avatar": "https://yt3.googleusercontent.com/1xEESaqMJFN2rOjCd93zB12T_CJVZpSFbSHfjkldG8RDpfH7VYxYhbVN8SRfgw4d7tCQP0d1-A=s900-c-k-c0x00ffffff-no-rj",
+      "videos": [
+        {
+          "id": "9YI4w_8UZsk",
+          "title": "MaMan x @Basyoni - AHDI (أهدي) | Official Music Video"
+        },
+        {
+          "id": "-Bnhylffhs8",
+          "title": "MaMan – Geboo (Live) | مامان – جيبو (Official Live Performance)"
+        },
+        {
+          "id": "1XIJeiioH28",
+          "title": "MaMan – Garmboza (Live) | مامان – قرمبوزة (Official Live Performance)"
+        },
+        {
+          "id": "9lB7scDiU7k",
+          "title": "MaMan ft. Mazmars, BAHARY Official Music Video Prod by: Issa & Assouad Novo | مامان مع مازمارس- بحري"
+        },
+        {
+          "id": "5HaooLCWz8g",
+          "title": "BAHARY - MaMan ft Mazmars, Prod by: Issa & Assouad, Novo (Official Visualizer)"
+        },
+        {
+          "id": "FqQ6OTG5chE",
+          "title": "Latest EP, Garmboza! Red & Blue, now available on all platforms!#afrobeat #amapiano #sudanesemusic"
+        },
+        {
+          "id": "VQIoQxt5a8U",
+          "title": "MaMan - Tunisiya (Official Audio) Prod by @Ninjaon249 @akondebeat3.0"
+        },
+        {
+          "id": "laQgrPO9hLw",
+          "title": "MaMan - Geboo ft Issa & Assouad (Official Audio)"
+        },
+        {
+          "id": "dURmIjbxmqk",
+          "title": "MaMan - Sukkar Kinana Prod by @Ninjaon249"
+        },
+        {
+          "id": "yB7fZbkp5FM",
+          "title": "MaMan - Garmboza (Official Audio) Prod by @Ninjaon249"
+        },
+        {
+          "id": "8_z8D51kl14",
+          "title": "MaMan - Zaman (Official Audio) Prod by @Ninjaon249"
+        },
+        {
+          "id": "ag6XyKat4lQ",
+          "title": "MaMan - Red & Blue (Official Audio) Prod by 77"
+        }
+      ],
+      "socials": {
+        "facebook": "https://www.facebook.com/mamanthereal249"
+      }
+    },
+    {
+      "id": "elkhaleefa",
+      "name": "ElKhaleefa",
+      "nameAr": "الخليفة",
+      "channelId": "UCAWt30E8seL0dJXzAyLd8-w",
+      "handle": "@elkhaleefarap5520",
+      "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_n4Z120jD06mJ8qns8WfXpGg-aHlu-9w7jUYXkvHOqEWQ=s900-c-k-c0x00ffffff-no-rj",
+      "videos": [
+        {
+          "id": "pDZVswe9JcY",
+          "title": "Elkhaleefa - Rap Nawawi الخليفه -راب نووي(Official Music Video)"
+        },
+        {
+          "id": "0roupnDG-Iw",
+          "title": "حالة طوارئ"
+        },
+        {
+          "id": "dLYan81qHhY",
+          "title": "#تحدي_مهند٢"
+        },
+        {
+          "id": "toTzoD12W1k",
+          "title": "249 freestyle"
+        },
+        {
+          "id": "3xYzWfjKEwU",
+          "title": "حياة كريمة ajaweed flow  #راب_سوداني"
+        }
+      ]
+    },
+    {
+      "id": "rotation",
+      "name": "roTation",
+      "nameAr": "روتيشن",
+      "channelId": "UC_UKdDb6Qku73023jbqujpA",
+      "handle": "@roTation249",
+      "avatar": "https://yt3.googleusercontent.com/w3rqGW-EOq1aMSoWkYh-L3bdUDDepbbt6OpFitpHDMU-tQab5I6Ayq_eLJccyZN77dmiShSdUA=s900-c-k-c0x00ffffff-no-rj",
+      "videos": [
+        {
+          "id": "dOERJs6Iivk",
+          "title": "Don’t Worry ( Prod. Mshakil )"
+        },
+        {
+          "id": "9rn-k26_ySk",
+          "title": "Wagti - وقتي ( Prod. 808Tooha )"
+        },
+        {
+          "id": "H9Da7zJZNjc",
+          "title": "roTation - Fuego (Official Visualizer)"
+        },
+        {
+          "id": "xC5UgL8tp0M",
+          "title": "roTation - Khawaja (with lyrics)"
+        },
+        {
+          "id": "kHOC-li33xs",
+          "title": "roTation · III IV V"
+        },
+        {
+          "id": "gjnt80N0fwM",
+          "title": "roTation - Friday Freestyle (Prod. By WillyWill) [Official Music Video]"
+        },
+        {
+          "id": "NMfF4SeZdSQ",
+          "title": "roTation - Tropical (prod. by 25)"
+        },
+        {
+          "id": "yhkoc9N-bEQ",
+          "title": "roTation - Trees (prod. by AMJD)"
+        },
+        {
+          "id": "Kde0lSiTkDc",
+          "title": "roTation - Trippy (prod. by WillyWill)"
+        },
+        {
+          "id": "KxRHdUkoJUk",
+          "title": "roTation - No More (Official Audio)"
+        },
+        {
+          "id": "104tISPnKus",
+          "title": "roTation - Randaka (Prod. by WillyWill)"
+        },
+        {
+          "id": "bYrwFAB3n5c",
+          "title": "roTation - Finish Line (Prod. by Nayz) (Official Music Video)"
+        }
+      ],
+      "socials": {
+        "facebook": "https://web.facebook.com/therealrotation/"
+      }
+    },
+    {
+      "id": "mvndila",
+      "name": "Mvndila",
+      "nameAr": "مانديلا",
+      "channelId": "UCo9qEdmgwhDrh_o86lPZJTg",
+      "handle": "@mvndila",
+      "avatar": "https://yt3.googleusercontent.com/evHMy8LB7_9WQxwD7ts_yx4z8i7wo7YNQ9gTE8vZuxBAHAbCi__GrmaNbm-meyvPY2HHVXDLkw=s900-c-k-c0x00ffffff-no-rj",
+      "videos": [
+        {
+          "id": "Uv5Nnc2BmyM",
+          "title": "Mvndila - DVMNILA | مانديلا - دامنيلا"
+        },
+        {
+          "id": "jBl7JwcoICo",
+          "title": "Mvndila - Rasta | مانديلا - راستا (Official Music Video)"
+        },
+        {
+          "id": "ielfGaOB7iY",
+          "title": "Mvndila - Bling Bling Bling | مانديلا - بلينق بلينق بلينق"
+        },
+        {
+          "id": "xpF_rQ3-RRw",
+          "title": "Mvndila - Jowa | مانديلا - جوا"
+        },
+        {
+          "id": "UeRvsTyCNXs",
+          "title": "Mvndila - 3sl | مانديلا - عسل"
+        },
+        {
+          "id": "0nnlR2tkS28",
+          "title": "Mvndila, Norfafrica - Aljazeera (Official Music Video) | مانديلا، نورف افريكا - الجزيرة"
+        },
+        {
+          "id": "lRILdXN5kxU",
+          "title": "Mvndila - Jiddo | مانديلا - جدو (Official Video)"
+        },
+        {
+          "id": "J8j1CjaGfGU",
+          "title": "Mvndila - Jiddo | مانديلا - جدو (Official Audio)"
+        },
+        {
+          "id": "srQuHY42ynE",
+          "title": "Mvndila ft. roTation -  Nuba | مانديلا مع روتيشن - نوبة"
+        },
+        {
+          "id": "k77wl0P9lwI",
+          "title": "Mvndila - Bako مانديلا - باكو (Official Music Video)"
+        },
+        {
+          "id": "soepykuyKuo",
+          "title": "Mvndila - intro"
+        },
+        {
+          "id": "mWCIetb_xOg",
+          "title": "Mvndila - Nyctophilia"
+        }
+      ]
+    },
+    {
+      "id": "veto",
+      "name": "Veto",
+      "nameAr": "فيتو",
+      "channelId": "UChUaox6RpyXDA4IdyKlHq8g",
+      "handle": "@vetoofficial10",
+      "avatar": "https://yt3.googleusercontent.com/oDDZ2Oa4vIKr_Yhal70Fngd4nw69qn0T9nCBccSn7VqD9F_KAvFRwBSOSUeZfzVE5-EHxveUCQ=s900-c-k-c0x00ffffff-no-rj",
+      "videos": [
+        {
+          "id": "h0qU1iyy12E",
+          "title": "VETO FT CVRTI - SHARRAMA | فيتو و كارتي - شرامه"
+        },
+        {
+          "id": "SUJ75G09T24",
+          "title": "VETO & @249Flac  - MASEER | فيتو و فلاك - مصير"
+        },
+        {
+          "id": "uN5B4CUk1Ec",
+          "title": "VETO & @249Flac  – MASEER (music video)"
+        },
+        {
+          "id": "vqoig3fC3IQ",
+          "title": "VETO - BADIYA | فيتو - باديه"
+        },
+        {
+          "id": "u1xkTJqrjSw",
+          "title": "VETO & UMI -SAMIRRI | فيتو و يومي - سميري"
+        },
+        {
+          "id": "3l0bgYI5_uc",
+          "title": "Veto ft kabier – Ro7i (prod by @249Flac ) | فيتو و كبير – روحي"
+        },
+        {
+          "id": "lb_mK6IzbOg",
+          "title": "VETO & @249CVRTI  - SHARRAMA | فيتو و كارتي - شرامه (official music video)"
+        },
+        {
+          "id": "5yqvWuvi21U",
+          "title": "VETO X MOSVCE -KIDO | فيتو و موصوص - كيدو"
+        },
+        {
+          "id": "Bd2mLjXsYPs",
+          "title": "Veto & mosauce – Kido (music video) | فيتو و موصوص – كيدو"
+        },
+        {
+          "id": "GOTstK6lsXI",
+          "title": "VETO FT @EZ9music  - MATTIK |  فيتو و عزو - متِك"
+        },
+        {
+          "id": "iUqu-CxRF0k",
+          "title": "VETO & MOSAUCE - ANA | فيتو و موصوص - انا"
+        },
+        {
+          "id": "U6LDwdkMfNc",
+          "title": "VETO & MOSAUCE- MIGOS | فيتو وموصوص - ميقوس"
+        }
+      ]
+    },
+    {
+      "id": "oddisee",
+      "name": "Oddisee",
+      "nameAr": "أوديسي",
+      "channelId": "UCoW1vlt8N0cHb7HVrBRAZZQ",
+      "handle": "@oddiseemusic",
+      "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_lq-jczd9WOg55O7hSRd7eANGkNnsticmsIcQ_qrCBK49Q=s900-c-k-c0x00ffffff-no-rj",
+      "videos": [
+        {
+          "id": "V8JBl9nTV04",
+          "title": "Oddisee - World On Fire (Official Video)"
+        },
+        {
+          "id": "E2Snh2NZHhk",
+          "title": "ODDISEE - OWN APPEAL (Official Video)"
+        },
+        {
+          "id": "KX-ECeV9rF0",
+          "title": "Oddisee \"Different Now\" feat. Toine (Official Music Video)"
+        },
+        {
+          "id": "IzjuReog3Yo",
+          "title": "Oddisee - Like Really | A COLORS SHOW"
+        },
+        {
+          "id": "88_jAJ-MduU",
+          "title": "Oddisee: NPR Music Tiny Desk Concert"
+        },
+        {
+          "id": "w8-tQoLDXyU",
+          "title": "Oddisee - CounterClockwise"
+        },
+        {
+          "id": "0SDlb_TU9-o",
+          "title": "Oddisee - After Thoughts (Official Video)"
+        },
+        {
+          "id": "Z-HFIH-5gU0",
+          "title": "Oddisee - Paralyzed"
+        },
+        {
+          "id": "kLtzdQIDoGU",
+          "title": "Oddisee - Brea | Official Video"
+        },
+        {
+          "id": "eD_QnHxM1_A",
+          "title": "Oddisee - You Grew Up | Official Music Video"
+        },
+        {
+          "id": "wiuqP51iDpQ",
+          "title": "Oddisee - NNGE (feat. Toine) || Official Video"
+        },
+        {
+          "id": "TX_5UZHzuJk",
+          "title": "ODDISEE - Back of My Mind || OFFICIAL VIDEO"
+        },
+        {
+          "id": "OMEZyucfITE",
+          "title": "Oddisee - No Skips feat. Ralph Real (Official Music Video)"
+        },
+        {
+          "id": "xVyIz9CiSv4",
+          "title": "Oddisee & Heno. - Say More (feat. Mad Keys) Visualizer"
+        },
+        {
+          "id": "WZzTOfpnqC8",
+          "title": "Oddisee & Heno. - MIMS (Official Video)"
+        },
+        {
+          "id": "h9-gqru8wqc",
+          "title": "h9-gqru8wqc"
+        }
+      ]
+    },
+    {
+      "id": "wissy",
+      "name": "WISSY",
+      "nameAr": "ويسي",
+      "channelId": "UCq2Z8xkN3PFonE8pU9UiQbA",
+      "handle": "@WISSY",
+      "avatar": "https://yt3.googleusercontent.com/NVs7acWhmSbY1kGlB3rzSAhysfkIhVElg7kjOIa7Qzcv8vfHTzke3kkqtRbCuBi9tK_eQ2AzoA=s900-c-k-c0x00ffffff-no-rj",
+      "videos": [
+        {
+          "id": "pOeMxxsSO14",
+          "title": "WISSY - DARDOMMA (Official Music Video) | ويسي - داردوما"
+        },
+        {
+          "id": "QBrg_ugnitY",
+          "title": "WISSY - OMAH LAY | ويسي - اوما ليه"
+        },
+        {
+          "id": "DhfrctbzIT0",
+          "title": "WISSY - JUGDI | ويسي - جقدي"
+        },
+        {
+          "id": "VyDmvR0bW08",
+          "title": "WISSY Ft. ADAM - JAMED | ويسي مع ادم - جامد (PROD BY SAMEER)"
+        },
+        {
+          "id": "J2bHYX9n2LY",
+          "title": "WISSY - SYMPHONIC | ويسي - سمفونيك | Official Music Video"
+        },
+        {
+          "id": "heahUkUa2e0",
+          "title": "WISSY FT. LORA - CINDRILLA REMIX |  ويسي و لورا - ساندريلا ريميكس"
+        },
+        {
+          "id": "XcxDi5IVXQI",
+          "title": "WISSY Ft. VETO, 249CVRTI, MSH3AL, COLO - HABSHA | ويسي مع فيتو , كارتي , مشعل , كولو - هبشة"
+        },
+        {
+          "id": "ru4Fk0fyWR8",
+          "title": "WISSY - HOLANDI | ويسي - هولندي PROD BY [@boibeatz249]"
+        },
+        {
+          "id": "5BMaqydJKr4",
+          "title": "WISSY - KAMANA | ويسي - كمنة [PROD BY @249CVRTI]"
+        },
+        {
+          "id": "KonSnJ7NA78",
+          "title": "WISSY - KN | ويسي - كي ان [PROD BY @249Flac]"
+        },
+        {
+          "id": "HVR__gS0Dz0",
+          "title": "WISSY - CINDRILLA | ويسي - ساندريلا"
+        },
+        {
+          "id": "PrtQe0rs6UU",
+          "title": "WISSY Ft. VETO - SHAFFATA | ويسي و فيتو - شفاتة"
+        }
+      ]
+    },
+    {
+      "id": "249cvrti",
+      "name": "249CVRTI",
+      "nameAr": "كارتي",
+      "channelId": "UCyH6pCIdA35dFo5m8DYsiNw",
+      "handle": "@249CVRTI",
+      "avatar": "https://yt3.googleusercontent.com/oZOmsVNvNbH32uGBZCHBmB_aoLhH8MarYn1mVfMP0qRMxqfJ4kvcpWJ_D93b4FgkpCYzEUHp=s900-c-k-c0x00ffffff-no-rj",
+      "videos": [
+        {
+          "id": "Je5UcQY9eOE",
+          "title": "249CVRTI - 3ebaya (Official Audio) | كارتي - عباية"
+        },
+        {
+          "id": "Y9aijIQ_A-Q",
+          "title": "249CVRTI - Ghana (Official Audio) | كارتي - غانا"
+        },
+        {
+          "id": "CNlY2iPAOtc",
+          "title": "249CVRTI - Kambala (Official Audio) | كارتي - كمبالا"
+        },
+        {
+          "id": "hVtdwJu9Nkk",
+          "title": "249CVRTI & Soulja - Jabra (Prod. FLAC) | كارتي وسولجا - جبرة"
+        },
+        {
+          "id": "7p6GHIVr-IU",
+          "title": "249CVRTI - Ba3eed (Official Audio) | كارتي - بعيد"
+        },
+        {
+          "id": "Fy0aFCUmRQg",
+          "title": "249CVRTI - Omdurr (Prod. 7xusam) (Official Audio) | كارتي - أمدر"
+        },
+        {
+          "id": "HZ_rJZzkzSw",
+          "title": "249CVRTI - Soba (Official Audio) | كارتي - سوبا"
+        },
+        {
+          "id": "BwKREIK4ERM",
+          "title": "249CVRTI - Sarab (Prod. FLAC) (Official Music Video) | كارتي - سراب"
+        },
+        {
+          "id": "I419N8IuA1Q",
+          "title": "249CVRTI - Bellil (Official Music Video) | كارتي - بليل"
+        },
+        {
+          "id": "FCmzWrwF8yM",
+          "title": "249CVRTI - Madani (Official Audio) | كارتي - مدني"
+        },
+        {
+          "id": "EaFe-xWnyl4",
+          "title": "249CVRTI - Bagif (feat. Colo & EZ9) (Official Audio) | كارتي مع كولو و عزو - بقيف"
+        },
+        {
+          "id": "Kcp9oiqN5js",
+          "title": "249CVRTI - Mushtari (Official Audio) | كارتي - مشتري"
+        }
+      ]
+    },
+    {
+      "id": "aka-keyz",
+      "name": "AKA Keyz",
+      "nameAr": "آكا كيز",
+      "channelId": "UC5t01blCxm2fps1QvOR3ILQ",
+      "handle": "@AKAKeyz",
+      "avatar": "https://yt3.googleusercontent.com/xXwk-ZGdVXuo6-2_5t-y_hd1c0e5AX7kjYrfJQJj7BOG64Jnc4UxOYPsPAleV5vXPMFN9-tzVA=s900-c-k-c0x00ffffff-no-rj",
+      "videos": [
+        {
+          "id": "G7Vj6rN1QAM",
+          "title": "AKA Keyz - Wayside Freestyle (Lyric Video)"
+        },
+        {
+          "id": "Vr6SXAGNqoI",
+          "title": "AKA Keyz - DECORUM (Official Music Video)"
+        },
+        {
+          "id": "LcWGIrPwA-I",
+          "title": "AKA Keyz - Outro (Official Audio)"
+        },
+        {
+          "id": "TkUZxx8OY6s",
+          "title": "AKA Keyz - OMG (Official Audio)"
+        },
+        {
+          "id": "vsE5YgrqFhE",
+          "title": "AKA Keyz - Save the World (Official Audio)"
+        },
+        {
+          "id": "JAcsgkQJqIs",
+          "title": "AKA Keyz - I Thought Wrong (Official Audio)"
+        },
+        {
+          "id": "om5kbcBhU8w",
+          "title": "AKA Keyz - How to Live (Official Audio)"
+        },
+        {
+          "id": "-1yF1MfGqCA",
+          "title": "AKA Keyz - Too Much (Official Audio)"
+        },
+        {
+          "id": "vySR9kx_Cmk",
+          "title": "AKA Keyz - Way Up (Official Audio)"
+        },
+        {
+          "id": "xXK6IrBGoxU",
+          "title": "AKA Keyz - Dylan (Official Audio)"
+        },
+        {
+          "id": "nWUiXlzZg4U",
+          "title": "AKA Keyz - Decorum (Official Audio)"
+        },
+        {
+          "id": "zAlkjAanIbA",
+          "title": "AKA Keyz - INTRO (Official Audio)"
+        }
+      ],
+      "socials": {
+        "facebook": "https://www.facebook.com/akakeyzz"
+      }
+    },
+    {
+      "id": "g-salih",
+      "name": "G Salih",
+      "nameAr": "جي صالح",
+      "channelId": "UCLsaDKGsdXZCj0UjBC6j7Ag",
+      "handle": "@gsalih9072",
+      "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_lEWzKTB8CTkLnwu1HLn8j3v0IsTAybRfAr4emZibD18Q=s900-c-k-c0x00ffffff-no-rj",
+      "videos": [
+        {
+          "id": "c6TzEuni9c4",
+          "title": "G-SALIH - FOUND YOU"
+        },
+        {
+          "id": "t11zBsbE_jg",
+          "title": "All Year - G-SALIH (CLEAN)"
+        },
+        {
+          "id": "YWRB-R0sdlE",
+          "title": "G-SALIH - Daydreaming (Acoustic) ft. KP_"
+        },
+        {
+          "id": "NcAwS1qlRBc",
+          "title": "G-SALIH - Daydreaming ft. KP"
+        },
+        {
+          "id": "lIjIyUXEg98",
+          "title": "G-SALIH - The Journey Freestyle (Official Video)"
+        },
+        {
+          "id": "Fy4_Ntl9fU0",
+          "title": "Bouquets (Freestyle)"
+        },
+        {
+          "id": "Z_HvYJjLP5I",
+          "title": "Hindsight"
+        },
+        {
+          "id": "qK-hMUvMHfE",
+          "title": "here"
+        },
+        {
+          "id": "iUL1YX5jsYk",
+          "title": "Same Old"
+        },
+        {
+          "id": "-Jc5COP8nsU",
+          "title": "Searching for Forever"
+        },
+        {
+          "id": "nrg9LfjHyPY",
+          "title": "Follow My Dreams"
+        },
+        {
+          "id": "s61JclK9fLw",
+          "title": "Night Like This"
+        },
+        {
+          "id": "svc5mTNaNsQ",
+          "title": "inferno (feat. AKA Keyz & Eaz Da Bully)"
+        },
+        {
+          "id": "BrmZGdbUlJ4",
+          "title": "Check"
+        },
+        {
+          "id": "3gQExyCQob8",
+          "title": "Check"
+        },
+        {
+          "id": "gQF52zdYpG8",
+          "title": "gQF52zdYpG8"
+        }
+      ],
+      "socials": {
+        "youtube": "https://www.youtube.com/@gsalih",
+        "tiktok": "https://www.tiktok.com/@therealgsalih"
+      }
+    },
+    {
+      "id": "nadine-el-roubi",
+      "name": "Nadine El Roubi",
+      "nameAr": "نادين الروبي",
+      "channelId": "UCRpP5iS5bgKD4dTmgVt7iCA",
+      "handle": "@thenadineelroubi",
+      "avatar": "https://yt3.googleusercontent.com/-J9yzR40RJl1HsFvwP7Dt1e1A7_VycWayh5TByWTFyOiN1ak0D_dJATqQMNO0qH2TlAGN8jy=s900-c-k-c0x00ffffff-no-rj",
+      "videos": [
+        {
+          "id": "S5943hNpbTE",
+          "title": "Nadine El Roubi - Hibiscus"
+        },
+        {
+          "id": "Yia9HXXs2Mc",
+          "title": "CALM DOWN (Official Visualizer)"
+        },
+        {
+          "id": "RfE8LDPlqqo",
+          "title": "Nadine El Roubi - after everything (Live)"
+        },
+        {
+          "id": "7zbDGa-ZJmM",
+          "title": "Nadine El Roubi - #FEMALE | FREESTYLES, Pt. 1"
+        },
+        {
+          "id": "N6Yp_a0Ss3o",
+          "title": "Nadine El Roubi - Honey Butter (prod. by Kubbara) [Official Audio]"
+        },
+        {
+          "id": "ATaSuvyeV5o",
+          "title": "Nadine El Roubi - Hair Up (prod. by Elavy & Exclusive Yossif)"
+        },
+        {
+          "id": "axoBpyFwrEc",
+          "title": "Nadine El Roubi - 'Cosmos' Official Lyric Video (prod. SPVCEMAN)"
+        },
+        {
+          "id": "Jvyl2OUt1FY",
+          "title": "Nadine El Roubi - Icon Freestyle"
+        },
+        {
+          "id": "INK0bu2uwSI",
+          "title": "Nadine El Roubi - Pac-Man (prod. SPVCEMAN)"
+        },
+        {
+          "id": "UZsAWhKf_p0",
+          "title": "Nadine El Roubi - Throne (prod. marwanonthemoon) [Behind The Scenes]"
+        },
+        {
+          "id": "UYjBsMRt2fg",
+          "title": "Nadine El Roubi - Throne (prod. marwanonthemoon)"
+        }
+      ]
+    },
+    {
+      "id": "all-moony",
+      "name": "All-moony",
+      "nameAr": "أول موني",
+      "channelId": "UCbA0p5GIoNcKdcJDQwdyA-w",
+      "handle": "@all-moony",
+      "avatar": "https://yt3.googleusercontent.com/pa0bmtW4A4VTSpJdQvJvN9YrXW6Bl_a29_UVY3ydH_kHksiR5QzR1d-TwKuF0XbmXTTL4nvux3c=s900-c-k-c0x00ffffff-no-rj",
+      "videos": [
+        {
+          "id": "HbgToMtSy0c",
+          "title": "All-moony - All-moony Type-Beat (Official Lyrics Video) l اول موني - اول موني تايب بيت"
+        },
+        {
+          "id": "b6wqs9KxiYU",
+          "title": "All-moony, Merodiii - merodiii freestyle | اول موني و ميرودي - ميرودي فريستايل"
+        },
+        {
+          "id": "CRUtXaoxaVU",
+          "title": "All-moony, 7sn XOB - n7sm alfawda | اول موني و حسن اكس او بي - نحسم الفوضى"
+        },
+        {
+          "id": "3yRNpvL83PQ",
+          "title": "All-moony - loco (prod by Hazim.wav) | اول موني - لوكو"
+        },
+        {
+          "id": "KTUIyYpBtWg",
+          "title": "All-moony, Al Muayed - ALAWAL (Official Audio) | اول موني و المؤيد - الأول"
+        },
+        {
+          "id": "hy81StmK9nI",
+          "title": "All-moony - SEASON (Prod by All-moony) [Official Audio] | اول موني - سيزون"
+        },
+        {
+          "id": "Ak4EdLJ_Bj8",
+          "title": "All-moony - SALLA (prod by Al Muayed) [Official Lyrics Visualizer] | اول موني - سلة (انتاج المؤيد)"
+        },
+        {
+          "id": "7pZ8585hdC8",
+          "title": "All-moony - SALLA ( prod by Al Muayed) | اول موني - سلة (انتاج المؤيد)"
+        },
+        {
+          "id": "xyIT6vXAGdU",
+          "title": "All-moony - A+ (Prod by All-moony) [Official Music Video] | اول موني - اي بلس"
+        },
+        {
+          "id": "Cyptd8b5KFk",
+          "title": "All-moony - 100% (prod by aser) [Official Music Video] | اول موني - مية في المية"
+        },
+        {
+          "id": "TPuxHZNFm5E",
+          "title": "All-moony - Ma Freestyle (prod by aser) | اول موني - ما فريستايل"
+        },
+        {
+          "id": "BrdPjGrk1fI",
+          "title": "All-moony - Market (Official Visualizer) | اول موني - ماركت"
+        }
+      ]
+    },
+    {
+      "id": "alkoba",
+      "name": "Alkoba",
+      "nameAr": "محمد كوبا",
+      "channelId": "UCeVr3y3ub7-xao7myyo7xuQ",
+      "handle": "@Alkobamusic",
+      "avatar": "https://yt3.googleusercontent.com/GwrBiUz35x69zjA0DIdW5slGsDj4jywRVKMFoXITpjj_lsOW2R_e9EOWaIDPgOi2TSbCZj8O5Q=s900-c-k-c0x00ffffff-no-rj",
+      "videos": [
+        {
+          "id": "qokRhT2eApo",
+          "title": "انا السودان | I'M SUDAN"
+        },
+        {
+          "id": "FQsNVh9zdik",
+          "title": "ALKOBA - DI MARÍA [ Audio Video ] الكوبا - دي ماريا ( Prod By KR MUSIC )"
+        },
+        {
+          "id": "znl2X6eNXKI",
+          "title": "ALKOBA X KR MUSIC - TARAB |  طرب -  محمد كوبا ( VIDEO LYRICS )"
+        },
+        {
+          "id": "4TAwazQ34_4",
+          "title": "الكبير كبير - محمد كوبا | MO KOBA X KR MUSIC - AL-KABER KABER | PRROD BY KR MUSIC  #الكبير_كبير #rap"
+        },
+        {
+          "id": "68bTKJ2hJVk",
+          "title": "محمد كوبا & KR MUSIC - صلوا عليه ||MO Koba X KR Music - Salo 3aleh (Official Audio Video) #مدح"
+        },
+        {
+          "id": "on9zIA39XDw",
+          "title": "Mo Koba - Shafshfa || محمد كوبا - شفشفه ( Prod By : KR Music)"
+        },
+        {
+          "id": "ZPyN2wX98hk",
+          "title": "محمد كوبا _قابلني بيك || Mo Koba _ 8ablni baek \"Prod By :MujTaba KR \""
+        },
+        {
+          "id": "21mnxdB7CQk",
+          "title": "محمد كوبا - من العاصمه المثلثه |Mo Koba- min al3a9ima almosalasa\"Prod By : MujTaba KR\""
+        },
+        {
+          "id": "sIofJGCf8r0",
+          "title": "مريخابي _ محمد كوبا & وليد الفينو - ( فيديو كليب)"
+        },
+        {
+          "id": "mB4nldeJqH0",
+          "title": "محمد كوبا - ودعت هواك | mohamed koba - wada3t hawakمشاركة أداء"
+        },
+        {
+          "id": "mV9k8untKVY",
+          "title": "محمد كوبا - قادرين |Mohamed koba - 8adreen\"Official Music Video\""
+        },
+        {
+          "id": "UbXKcwNYmuA",
+          "title": "محمد كوبا - صفرجت | Mohamed koba - sfragt\"Official Music Video\""
+        }
+      ]
+    },
+    {
+      "id": "hoosh",
+      "name": "Hoosh",
+      "nameAr": "هوش",
+      "channelId": "UCMyjDUzAj0vUQLrgJtCVI0w",
+      "handle": "@hooshgtn",
+      "avatar": "https://yt3.googleusercontent.com/ZfI2ObAA6WG7t0XWqqN16QABpo7s9GBsXJnGYfUvxtkMipwMVsnfc4NW5hcNx5u_rN90o7072w=s900-c-k-c0x00ffffff-no-rj",
+      "videos": [
+        {
+          "id": "OrzGDb1H9Pw",
+          "title": "Hoosh - the beach (Visualizer)"
+        },
+        {
+          "id": "LN_Q5ExZ5Ss",
+          "title": "Hoosh - high, i'm famous (Visualizer)"
+        },
+        {
+          "id": "44LydCTJnSY",
+          "title": "Hoosh - dani, california (Visualizer)"
+        },
+        {
+          "id": "8QvZDmCuzlc",
+          "title": "hoosh - slow down (visualizer)"
+        },
+        {
+          "id": "OiFwOLt9XRU",
+          "title": "Hoosh - sorry, i'm fried (Visualizer)"
+        },
+        {
+          "id": "K_D-lBHLPx8",
+          "title": "Hoosh & Bas - high, i'm famous [official audio]"
+        },
+        {
+          "id": "BOxiEmQ5S4o",
+          "title": "Hoosh & Reuben Vincent - lucky [lyric visualizer]"
+        },
+        {
+          "id": "S1FO9Ow08lI",
+          "title": "Hoosh - hate me now [lyric visualizer]"
+        },
+        {
+          "id": "CDKg9NSyxSs",
+          "title": "Hoosh - don't [official audio]"
+        },
+        {
+          "id": "fE28iijdg8Y",
+          "title": "Hoosh - move on [official audio]"
+        },
+        {
+          "id": "489LMEPHTOc",
+          "title": "Hoosh & Maman - worth it (remix) [official audio]"
+        },
+        {
+          "id": "yBMzptxowO4",
+          "title": "eat healthy with me! #health #wellness #yallgomakeyousome"
+        }
+      ],
+      "socials": {
+        "youtube": "https://www.youtube.com/@hooshgtn",
+        "tiktok": "https://www.tiktok.com/@hooshgtn",
+        "facebook": "https://www.facebook.com/hooshgtn"
+      }
+    },
+    {
+      "id": "wiz-chain",
+      "name": "Wiz Chain",
+      "nameAr": "ويز تشين",
+      "channelId": "UCC5xsCKQluVbY6Miik0hMXQ",
+      "handle": "@WizChain",
+      "avatar": "https://yt3.googleusercontent.com/D5lvS3Kr7CO9aRyLzQDP5QgCzda2yewBJWT0bPXa7AA9R5G_zdGlJYWsRHVS9RruZYIsdAfO_w=s900-c-k-c0x00ffffff-no-rj",
+      "videos": [
+        {
+          "id": "Sdyzq_l1iyo",
+          "title": "Wiz Chain - Home Is Calling ( Official Audio )"
+        },
+        {
+          "id": "tbzjSKQhvX8",
+          "title": "Echo Road OUT NOW! off the EP PULSE OF THE EXILE!!!!! #newmusic #shorts #youtubeshorts"
+        },
+        {
+          "id": "vCI0LdKurXk",
+          "title": "Wiz Chain - IF YOU LET ME IN  ( Official Audio )"
+        },
+        {
+          "id": "KSUTogvuJWg",
+          "title": "Wiz Chain - Echo Road  ( Official Audio )"
+        },
+        {
+          "id": "QcH-jhk3x74",
+          "title": "Wiz Chain - Feel The Fire 🔥 ( Official Visualizer )"
+        },
+        {
+          "id": "iXKSFfBiLI4",
+          "title": "Wiz Chain - Sudan Hear Me Now ( Official Audio )"
+        },
+        {
+          "id": "8BvVNZQV82g",
+          "title": "Wiz Chain -  NO BORDERS  ( Official  Lyrics  Audio )  ft  Alyce"
+        },
+        {
+          "id": "TUKjUG9G94c",
+          "title": "Wiz Chain  -  UCHE  ( Official Music Audio )"
+        },
+        {
+          "id": "sUQdTHvhc4A",
+          "title": "Wiz Chain  - BYE BYE  ( Official Music Video ) ft Man P"
+        },
+        {
+          "id": "oO9IS8sIHv0",
+          "title": "Wiz Chain -  BYE BYE (  Official Audio ) ft Man P"
+        },
+        {
+          "id": "r6wUzOsQY0c",
+          "title": "Wiz Chain  - Marry Me ( Official Music Audio )"
+        },
+        {
+          "id": "qbvnbDXbAd8",
+          "title": "Wiz Chain - HURIYA  ( OFFICIAL AUDIO )"
+        }
+      ]
+    },
+    {
+      "id": "haven",
+      "name": "HAVEN",
+      "nameAr": "هيفن",
+      "channelId": "UCGw9fEdHiUVM5_n4w_P_PMA",
+      "handle": "@hqvmn",
+      "avatar": "https://yt3.googleusercontent.com/1bvCn7xzhlp1tYqGQfIP7Wam44uA3h9Yoyy8CYQ6_h0PojdRImZPazM6QBFnd5Yr1sNdb7TP=s900-c-k-c0x00ffffff-no-rj",
+      "videos": [
+        {
+          "id": "hbzKqqR7cR8",
+          "title": "HAVEN - AL FORON FREESTYLE | هيفن - الفرن فريستايل (Offical Audio)"
+        },
+        {
+          "id": "GozsicBzIn0",
+          "title": "HAVEN - CHAMP | هيفن - تشامب (Offical Visualizer)"
+        },
+        {
+          "id": "f0Grk_tFV84",
+          "title": "HAVEN - WALA LA ? | ولا لا؟ (Offical Music Video)"
+        },
+        {
+          "id": "b1h0FGrdsDM",
+          "title": "HAVEN - SEIK | هيفن - سيك (Offical Audio)"
+        },
+        {
+          "id": "AexA4rlLfR8",
+          "title": "HAVEN - TAMANA | هيفن - تمنى (Offical Visualizer)"
+        },
+        {
+          "id": "-UgCBHte0vE",
+          "title": "HAVEN - 2 AM | هيفن - 2 باليل (Offical Visualizer)"
+        },
+        {
+          "id": "XezLUDQ7wsI",
+          "title": "HAVEN - CAEZER ft. MaMan (Offical Visualizer)"
+        },
+        {
+          "id": "O51EjAHkYoI",
+          "title": "HAVEN - ANTI-FREEZE (Offical Visualizer)"
+        },
+        {
+          "id": "TEXjjfOpks0",
+          "title": "HAVEN - NERVE ft. All moony (Offical Visualizer)"
+        },
+        {
+          "id": "7jl6pJ70k2Y",
+          "title": "HAVEN - TNT! (Offical Visualizer)"
+        },
+        {
+          "id": "N6g5gslyNt0",
+          "title": "HAVEN اشريا | HAVEN - ASHRYA (Offical Audio)"
+        },
+        {
+          "id": "MTKzMQKfUOY",
+          "title": "HAVEN - متع اضانك (Offical Visualizer)"
+        }
+      ]
+    },
+    {
+      "id": "daddy-carti-249",
+      "name": "Daddy Carti 249",
+      "nameAr": "دادي كارتي",
+      "channelId": "UCTOH6xx09w8fUq2UvEpMxcg",
+      "handle": "@itsdaddy249",
+      "avatar": "https://yt3.googleusercontent.com/LfEDwIUO2tB0tJu0kkK-io-QOLJUQZKYsF6504ps62hNhzKwCTP0Vwac1z_t8gXrt1vANuL7Mw=s900-c-k-c0x00ffffff-no-rj",
+      "videos": [
+        {
+          "id": "VvVf2NCKhz8",
+          "title": "DALDOOM - دلدوم | Ft. @KMBOORBEATZsd  (Official Music Video) DADDY CARTI 249"
+        },
+        {
+          "id": "FJn7jrzWVmI",
+          "title": "SAYTARA - سيطرة ( OFFICIAL AUDIO ) - DADDY CARTI 249"
+        },
+        {
+          "id": "Duoevaz88II",
+          "title": "RICE - Ft.@HamoBeatz [OFFICIAL MUSIC VIDEO]"
+        },
+        {
+          "id": "UkEW_Ktx5q4",
+          "title": "INTROBOLOGIA - Ft. BATINI KDB [OFFICIAL MUSIC VIDEO]"
+        },
+        {
+          "id": "gh2WpMjMwfo",
+          "title": "CONSEQUENCES - DADDY CARTII - FT BATINI BKD | دادي كارتي - عواقب - OFFICIAL AUDIO"
+        },
+        {
+          "id": "-D-XHpEpKLo",
+          "title": "Daddy Cartii_FT_Batinii_619_ST_ FREESTYLE"
+        },
+        {
+          "id": "18PDPMkYoUs",
+          "title": "Asked About Sudan - Daddy carti  | دادي كارتي  -سالت عن السودان@Ninjaon249  Official Music Video"
+        },
+        {
+          "id": "3xvKK0hUnJc",
+          "title": "Daddy-Super Nova ft(@Doko99 @23psycho @Wd_saif)[Official Video Clip]"
+        },
+        {
+          "id": "DZ-lo72Gz88",
+          "title": "Daddy_249-ااديهاصنة|Adeha_SANA(official _Audio)"
+        }
+      ]
+    },
+    {
+      "id": "huja",
+      "name": "Huja",
+      "nameAr": "هوجا",
+      "channelId": "UCr2MD-izWi-lnqt9wppElvg",
+      "handle": "@HUJAOFFICIAL",
+      "avatar": "https://yt3.googleusercontent.com/cJAFO1nna5DTWsxc6tHRfE3NR8Uu-cpnUHSrOApVzlJttz_lmkVx-vrJNPEkIqz0G0zmHbvzcCs=s900-c-k-c0x00ffffff-no-rj",
+      "videos": [
+        {
+          "id": "bYtWupRa8QE",
+          "title": "HUJA - DR.SCHOLL | هوجا - دكتور شول  (Official video)"
+        },
+        {
+          "id": "VTtzXnne_0Y",
+          "title": "HUJA - YK | هوجا - يك (Official audio)"
+        },
+        {
+          "id": "iIBy5qLoOXY",
+          "title": "MODHISHA  FREESTYLE (Official Music Video) | هوجا - مدهشة"
+        },
+        {
+          "id": "zWNw1UTwVNw",
+          "title": "شبشب شبشب دكتور شول #newmusic #راب"
+        },
+        {
+          "id": "akONuLsf7l4",
+          "title": "هوجا - دكتور شول"
+        },
+        {
+          "id": "9oove7bWEY4",
+          "title": "شبشب شبشب دكتور شول"
+        },
+        {
+          "id": "O9UHtkCidWA",
+          "title": "وقفت جلد الذات هوجا- يك💥🎤 #راب #shorts"
+        },
+        {
+          "id": "XiZFF2SFQD4",
+          "title": "مجنونه ختتا لي مارلين.. هوجا"
+        },
+        {
+          "id": "3wLXS7GOBe4",
+          "title": "هارلين في السودان... يك"
+        },
+        {
+          "id": "MFmfsZXZChc",
+          "title": "هوجا - يك"
+        },
+        {
+          "id": "ft56lhDaIZw",
+          "title": "جمال نايم في البيت ومتغطي بي ملايه"
+        },
+        {
+          "id": "mul_yLAlfgg",
+          "title": "..لمن حواتيه تغنى راب..يا مدهشه"
+        },
+        {
+          "id": "yAY_F7Kz_LA",
+          "title": "حواتيه بتغني راب للحوت"
+        },
+        {
+          "id": "6E0Em31XcDI",
+          "title": "KORBA FREESTYLE (Official Music Video) | هوجا - كربة #alfasher #storytellingrap #rap #music"
+        },
+        {
+          "id": "iXrJSfDUoAY",
+          "title": "KORBA FREESTYLE (Official Music Video) | هوجا - كربة"
+        },
+        {
+          "id": "mLM3sphyqhY",
+          "title": "mLM3sphyqhY"
+        }
+      ]
+    },
+    {
+      "id": "sami-249",
+      "name": "SAMI 249",
+      "nameAr": "سامي",
+      "channelId": "UCjvUDJscXLKAvrOm8YvkWyw",
+      "handle": "@Sami249i",
+      "avatar": "https://yt3.googleusercontent.com/i8WRLl-fpJ9wz-WmhtT_YaC1qgOBz_Tuj_KIODK8ub4YQwVfCl_Gw4cZq_3a_yRIcRTXjNyx2w=s900-c-k-c0x00ffffff-no-rj",
+      "videos": [
+        {
+          "id": "mqr638ZGwvY",
+          "title": "SAMI249 - KAWALEES | سامي - كواليس (OFFICIAL VISUALIZER)"
+        },
+        {
+          "id": "XwlJSP-TRzE",
+          "title": "SAMI249 -  SHAMBAT | سامي - شمبات ( OFFICIAL MUSIC AUDIO )"
+        },
+        {
+          "id": "QTJwDsUZMkk",
+          "title": "SAMI - ERROR | سامي - إيرور (Official Music Video)"
+        },
+        {
+          "id": "Wb40PA5Gt8Q",
+          "title": "SAMI - ROUND 1 | سامي - الجولة الأولى (Official Freestyle) 2026 #راب"
+        },
+        {
+          "id": "ltfSMnXv-SM",
+          "title": "SAMI -  SARI ALLEIL | سامي - ساري الليل ( OFFICIAL MUSIC AUDIO )"
+        },
+        {
+          "id": "e8BBx8tA1CY",
+          "title": "SAMI - FAREQ | سامي - فرق ( OFFICIAL MUSIC AUDIO )"
+        },
+        {
+          "id": "jnkFzUHYTAw",
+          "title": "SAMI - MARASI | سامي - مراسي ( Official Music AUDIO )"
+        },
+        {
+          "id": "a0Q7H_NV2gA",
+          "title": "SAMI - CREEPY (Official Music Video) | سامي - كريبي"
+        },
+        {
+          "id": "gJ_coQjokqs",
+          "title": "SAMI - k. O. (Official Audio) - Diss track"
+        },
+        {
+          "id": "a3EJYEEp7DQ",
+          "title": "SAMI - DANA (prodby 249tekashi ) | سامي - دانه"
+        },
+        {
+          "id": "rlRWcgyZOMg",
+          "title": "SAMI X SPARKY - Shila min hena (Official visualizer) | سامي × سباركي - شيلا من هنا"
+        },
+        {
+          "id": "dplCVELFm50",
+          "title": "SAMI x 249tekashi - Donia(Official visualizer) | سامي - دنيا"
+        }
+      ]
+    },
+    {
+      "id": "mujvhed",
+      "name": "Mujvhed",
+      "nameAr": "مجاهد",
+      "channelId": "UC2ChIXyOju8E2_cqsFm8rsw",
+      "handle": "@mujvhed",
+      "avatar": "https://yt3.googleusercontent.com/BI8owonQhLa5Xbo_d1pGflFdLyJekLoiUVwZJIM-Z5NdmT7qbCPI65SaGNbF6l4Ug-1n2l5AMA=s900-c-k-c0x00ffffff-no-rj",
+      "videos": [
+        {
+          "id": "eXeo3Z8YSdo",
+          "title": "MUJVHED - SUDAPIANO (Official Audio) | مچاهد - سودابيانو"
+        },
+        {
+          "id": "X0wNXyh90oM",
+          "title": "MUJVHED - Margeen (Official Music Video) | مچاهد - مارقين"
+        },
+        {
+          "id": "DwKmQVX8hkk",
+          "title": "MUJVHED - HAK YA (Official Music Video) | مچاهد - هاك يا"
+        },
+        {
+          "id": "c0z4mdEkbwo",
+          "title": "Mujvhed X TaffyRaps - BASSAMA | مچاهد و تافي - بسّامة (Prod by. Bashmohannad)"
+        },
+        {
+          "id": "obO3xXORFuE",
+          "title": "MUJVHED - T3ALY | مجاهد - تعالي"
+        },
+        {
+          "id": "SG-PM7ZElP4",
+          "title": "MUJVHED - BRAI | مجاهد - براي"
+        },
+        {
+          "id": "TUD0YilvLZs",
+          "title": "MUJVHED - HABABA | مجاهد - حبابا"
+        },
+        {
+          "id": "-Wwv2r4PFHk",
+          "title": "MUJVHED - From KRT TO CAI (OFFICIAL MUSIC VIDEO) | مجاهد - من الخرطوم لكايرو"
+        },
+        {
+          "id": "elXsh20Wlaw",
+          "title": "MUJVHED - MN AL SUDAN | مچاهد - من السودان"
+        },
+        {
+          "id": "0gHp2ahBXRs",
+          "title": "Mujvhed - 3adi | مجاهد - عادي"
+        }
+      ]
+    },
+    {
+      "id": "sane",
+      "name": "SANE",
+      "nameAr": "ساني",
+      "channelId": "UCYDczHAk7mzbGrp76mt0PEg",
+      "handle": "@xsvne",
+      "avatar": "https://yt3.googleusercontent.com/MhjQ8XqGhF-3tZfeNaZdjd-4vlvjwM5-eHVmJHxYfY12hf6fb8vyDq92mXuIwBa3YhuPF-_x=s900-c-k-c0x00ffffff-no-rj",
+      "videos": [
+        {
+          "id": "0lubU__ioFk",
+          "title": "SANE X ZOGOL X NINJA249 - OUTTA SYSTEM (Official Music Video)"
+        },
+        {
+          "id": "8DFetakUmQc",
+          "title": "SANE X NINJA249 - SAMURAI | ساني و نينجا -  ساموراي (Official Music Video)"
+        },
+        {
+          "id": "xIKuQtv992s",
+          "title": "SANE - TALATA | ساني - تلاتة (Official Music Video)"
+        },
+        {
+          "id": "AR5SpebrTuI",
+          "title": "SANE - GHAREEB | ساني - غريب (Official Music Video)"
+        },
+        {
+          "id": "8WzviEKti9c",
+          "title": "SANE X 06 - MA DAYRO M3AKOM | ساني و 06 - ما دايرو معاكم (Official Visualizer)"
+        },
+        {
+          "id": "GQzQ2lQ11P0",
+          "title": "SANE X NINJA249 - 9 SOULS | ساني و نينجا - 9 أرواح (Official Visualizer)"
+        },
+        {
+          "id": "FcXF9r0XBmY",
+          "title": "SANE X BATINIKDB - 3AMEL RAYE7 | ساني و باطني - عامل رايح (Official Music Video)"
+        },
+        {
+          "id": "WnfYJ9tQS14",
+          "title": "SANE - MIAMI | ساني - ميامي (Official Music Video)"
+        }
+      ]
+    },
+    {
+      "id": "zogol",
+      "name": "ZOGOL",
+      "nameAr": "زغل",
+      "channelId": "UCIxEfVJ576pnTmXZ_ntr2FQ",
+      "handle": "@ZOGOLWAVES",
+      "avatar": "https://yt3.googleusercontent.com/LvvakTosddLi8H0gd7-C0Ff88TqOPT-Wn4zF-_7ROrRRHre8XIKHR51ZZserShXuVi5omtaM=s900-c-k-c0x00ffffff-no-rj",
+      "videos": [
+        {
+          "id": "XJ6QF5rp0W8",
+          "title": "ZOGOL - LAZER (DISSRESPECT) (OFFICIAL VISUALIZER)"
+        },
+        {
+          "id": "Z21KfKNh24Q",
+          "title": "ZOGOL- INSAN TANY (OFFICIAL AUDIO)"
+        },
+        {
+          "id": "0lubU__ioFk",
+          "title": "SANE X ZOGOL X NINJA249 - OUTTA SYSTEM (Official Music Video)"
+        },
+        {
+          "id": "tERJOfrQBwI",
+          "title": "BARA (feat. 808tooha)"
+        }
+      ]
+    },
+    {
+      "id": "gadoora",
+      "name": "Gadoora",
+      "nameAr": "قدورة",
+      "channelId": "UCj_Ud3LYCiaKTVxMfmOsv3g",
+      "handle": "@Gadoora",
+      "avatar": "https://yt3.googleusercontent.com/W31VDqTptYRGPSFBtFAy2uXt86dLdABOGTGbPoUoNVtmi0vSBOhSdTChWcSjyFmDyOcTTCLzT88=s900-c-k-c0x00ffffff-no-rj",
+      "videos": [
+        {
+          "id": "sHjfwmxbHjU",
+          "title": "Gadoora - Al Gazzera (Official Music Video) قدورة - الجزيرة"
+        },
+        {
+          "id": "ffms0DbnWlI",
+          "title": "Gadoora ft DXTCH BEATS - 4 am in Naalya [Official Audio] قدورة || راب سوداني"
+        },
+        {
+          "id": "IFgd9-VCaSE",
+          "title": "Gadoora - متلازمة الغروب [Official Audio] قدورة || راب سوداني"
+        },
+        {
+          "id": "zh-BMG-GOHA",
+          "title": "Gadoora ft Al Muayed - أحلام طمبور [Official Audio] قدورة || راب سوداني"
+        },
+        {
+          "id": "Lym8JJ3g0XY",
+          "title": "Gadoora ft DXTCH BEATS - إعتذار [Official Audio] قدورة || راب سوداني"
+        },
+        {
+          "id": "b1FHVbsGF00",
+          "title": "Gadoora - زهج إنترلود [Official Audio] قدورة || راب سوداني"
+        },
+        {
+          "id": "8utYhlJpBJs",
+          "title": "Gadoora ft DXTCH BEATS - أحلام منسية [Official Audio] قدورة || راب سوداني"
+        },
+        {
+          "id": "njiTK2wl1mk",
+          "title": "Gadoora ft DXTCH BEATS - زادي [Official Audio] قدورة || راب سوداني"
+        },
+        {
+          "id": "6QnXurslQ0Q",
+          "title": "Gadoora - أحلام مراهق [Official Audio] قدورة || راب سوداني"
+        },
+        {
+          "id": "P1XAAmDyY_g",
+          "title": "Gadoora ft Jafar Amin - بس عشانك ريمكس (Official Audio)"
+        },
+        {
+          "id": "02r8y6BEQKI",
+          "title": "Gadoora ft Al Muayed - أحلام طمبور (Official Audio)"
+        },
+        {
+          "id": "SQdUqIGUg9w",
+          "title": "Gadoora ft Jafar Amin - زط ريمكس (Official Audio)"
+        }
+      ]
+    },
+    {
+      "id": "halfa",
+      "name": "Halfa",
+      "nameAr": "حلفا",
+      "channelId": "UCvdG-Vbqz4gzZ02xb_d-hkQ",
+      "handle": "@H2LFA",
+      "avatar": "https://yt3.googleusercontent.com/H2lgHsNz0HPPPr6zZsBbKoGiszaVjmcWhD4fmA88C3_TABPV_a8jSy837tP0riUoYbKyn-U8=s900-c-k-c0x00ffffff-no-rj",
+      "videos": [
+        {
+          "id": "wLFKJUaSSa4",
+          "title": "حلفا - تهاني HALFA - TAHANY (Official Visualizer)"
+        },
+        {
+          "id": "Y7Eeruv48Wc",
+          "title": "HALFA X FADWA FAREED - SAMHA | حلفا - فدوي فريد - سمحة (OFFICIAL MUSIC VIDEO)"
+        },
+        {
+          "id": "_hzw9DZR0gg",
+          "title": "Halfa 2025 New Music | Raw Sudanese Hip Hop & Powerful Lyrics | جميع أغاني حلفا ٢٠٢٥"
+        },
+        {
+          "id": "DKV-R5Xnizs",
+          "title": "HALFA - SHAKE IT ( OFFICIAL MUSIC VIDEO ) PROD BY : @GabbaniProduction"
+        },
+        {
+          "id": "T3t_RVjrXgQ",
+          "title": "HALFA - MARKONY ( OFFICIAL MUSIC VIDEO ) PROD BY : @MOBEATS999 ​"
+        },
+        {
+          "id": "oRkPY2mWvf4",
+          "title": "HALFA - كوميديا سوداء ( OFFICIAL MUSIC VIDEO ) Prod. @MOBEATS999"
+        },
+        {
+          "id": "RkSB_0tp5mE",
+          "title": "HALFA x IBRAHIM ALDAW - AQARIB (Official Lyrics Video) |"
+        },
+        {
+          "id": "XFMmGzzKPlE",
+          "title": "HALFA 249 DAY 2025 : حلفا في يوم الهيب هوب السوداني (Exclusive)"
+        },
+        {
+          "id": "JF1a1qV0FxQ",
+          "title": "HALFA - EBLEES (OFFICIAL VIDEO LYRICS) Prod. @MOBEATS999"
+        },
+        {
+          "id": "GJHJMHeHPuc",
+          "title": "HALFA - BAHRI (OFFICIAL VIDEO LYRICS) Prod. @psycho-1i"
+        },
+        {
+          "id": "BNUGXpqiBWs",
+          "title": "HALFA - TALAMEES | حلفا - طلاميس (Official Video Lyrics) prod by : @psycho-1i"
+        },
+        {
+          "id": "mSYVPjIA7gw",
+          "title": "Halfa - Narjesi (Official Video Lyrics) | حلفا - نرجسي اقوى راب سوداني"
+        }
+      ]
+    },
+    {
+      "id": "7even",
+      "name": "7EVEN",
+      "nameAr": "سڤن",
+      "channelId": "UCvSrvyRzdrjOUYzpZwJyWdA",
+      "handle": "@7evenmuzzic",
+      "avatar": "https://yt3.googleusercontent.com/5dGc5GZMS0OLsQWSy9pNXO_iC3qd65c95b5B3nVyk3GCKwSj6Q8Ij5u2rY61K4l7MRY9ifhMwQ=s900-c-k-c0x00ffffff-no-rj",
+      "videos": [
+        {
+          "id": "SV4nDP1NhL0",
+          "title": "7EVEN - ما حقيقي / DEATH. [Prod. JAH] (Official Audio)"
+        },
+        {
+          "id": "XmNW4ReveeY",
+          "title": "7EVEN, AH-METHIST - I WONDER / الساعة اتنين (Official Audio)"
+        },
+        {
+          "id": "PzvukFsYFBg",
+          "title": "7EVEN - LAYALY | سڤن - ليالي (Offical Audio)"
+        },
+        {
+          "id": "4GEAjGXV43A",
+          "title": "7EVEN - APORIA | سڤن - أبوريا (OFFICIAL AUDIO)"
+        },
+        {
+          "id": "aX1jL7ahefo",
+          "title": "7EVEN - HIMALAYA | سڤن - هيمالايا (OFFICIAL AUDIO)"
+        },
+        {
+          "id": "YmPF_3TanII",
+          "title": "7EVEN - MELADY | سڤن - ميلادي (OFFICIAL AUDIO)"
+        },
+        {
+          "id": "69YXkCdtSJE",
+          "title": "7EVEN - MAT W 7AY | سڤن - مات و حي (OFFICIAL AUDIO)"
+        },
+        {
+          "id": "BAlji89dNXI",
+          "title": "7EVEN - GREY (INTERLUDE) | سڤن - رمادي (OFFICIAL AUDIO)"
+        },
+        {
+          "id": "Qy8sT25sW48",
+          "title": "7EVEN - HOLAMIYA | سڤن - هلامية (OFFICIAL AUDIO)"
+        },
+        {
+          "id": "Rr82xSiFQtw",
+          "title": "7EVEN - DPRSA | سڤن - دبرسة (OFFICIAL AUDIO)"
+        },
+        {
+          "id": "jnzFs-KxP5k",
+          "title": "7EVEN - ZOROUF | سڤن  ظروف (OFFICIAL AUDIO)"
+        },
+        {
+          "id": "P6TfdN1Sj34",
+          "title": "7EVEN - BLACK & WHITE (INTRO) | سڤن - أبيض وأسود (OFFICIAL AUDIO)"
+        }
+      ]
+    },
+    {
+      "id": "mshakil",
+      "name": "Mshakil",
+      "nameAr": "مشاكل",
+      "channelId": "UCCebkBiBhiasgBcGjr-cNng",
+      "handle": "@MshakilBeatz",
+      "avatar": "https://yt3.googleusercontent.com/t7HFuJcP3-dZBEfDlheabTzYxbfOXa5isxioBM1x0JjFJYJ6FESpMIk01M-yqa55iWzMw7CC=s900-c-k-c0x00ffffff-no-rj",
+      "videos": [
+        {
+          "id": "lB4TR734RbE",
+          "title": "@TravisScottXX X @MshakilBeatz Mafia Remix coming soon 🔥🔥🇸🇩"
+        },
+        {
+          "id": "kMMfcbXjER4",
+          "title": "بوووت"
+        }
+      ]
+    },
+    {
+      "id": "papii",
+      "name": "Papii",
+      "nameAr": "بابي",
+      "channelId": "UCtOkzxpgOetjKpUz7y9dquQ",
+      "handle": "@papiixofficial",
+      "avatar": "https://yt3.googleusercontent.com/S4QdKwDax3P4yrD9pgR10LqH_MbuTFA2YQXNC0ezgE9p8rNzzi9eUW6SYgd591TO76L_Z_LdaDI=s900-c-k-c0x00ffffff-no-rj",
+      "videos": [
+        {
+          "id": "Uw8QRtkXAWA",
+          "title": "PAPII - PAPIIDOVSKII (Prod. by XTHEDESERTKID) | بابي - بابي دوڤسكي"
+        },
+        {
+          "id": "McdYVZKSwtw",
+          "title": "PAPII - WALD DA (Prod. by Yung P) | بابي - الولد دا"
+        },
+        {
+          "id": "GAZPlhSTuMQ",
+          "title": "PAPII - DAGHT ft.@KhaledRossia   (Prod. by XTHEDESERTKID) | بابي و خالد روسيا - ضغط"
+        },
+        {
+          "id": "5tKvA5IFJu0",
+          "title": "PAPII - FKEENY (Prod. by XTHEDESERTKID) | بابي - فكيني"
+        },
+        {
+          "id": "ixkzig0DLQg",
+          "title": "PAPII - NICKI (Prod. by XTHEDESERTKID) | بابي - نيكي"
+        },
+        {
+          "id": "lzo7CG-Kh0A",
+          "title": "PAPII - HALWASA (Prod. by Husvwvibes) [Official Music Video] | بابي - هلوسة"
+        },
+        {
+          "id": "g_P2vcYcZMY",
+          "title": "PAPII - MONALIZA ft. @hleemtajalser  (Prod. by XTHEDESERTKID) | بابي و حليم تاج السر - موناليزا￼"
+        },
+        {
+          "id": "Dd96DDZOE-o",
+          "title": "PAPII - MAF (Prod. by XTHEDESERTKID & NAIF) | بابي - ماف"
+        },
+        {
+          "id": "E44VxV8AfPI",
+          "title": "PAPII - MOSHKLA (Prod. by XTHEDESERTKID) | بابي - مشكلة"
+        },
+        {
+          "id": "fgWJIQZSzvY",
+          "title": "PAPII - GEMINI (Prod. by XTHEDESERTKID) | بابي - الجوزاء"
+        },
+        {
+          "id": "g9935k9I-PA",
+          "title": "PAPII - RIZZ (Prod. by XTHEDESERTKID) | بابي - ريز"
+        },
+        {
+          "id": "WTpMGNSpdpc",
+          "title": "PAPII - KART (Prod. by XTHEDESERTKID) | بابي - كرت"
+        }
+      ]
+    },
+    {
+      "id": "eaz-da-bully",
+      "name": "Eaz Da Bully",
+      "nameAr": "ايز دا بولي",
+      "channelId": "UCMMpyHbIzjG90mPdAc0L4Og",
+      "handle": "@eazdabully8186",
+      "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_n2RDYNvtHGg8OQLl87qHo5Niygp7eX_3CifIEZ5IRL4Q=s900-c-k-c0x00ffffff-no-rj",
+      "videos": [
+        {
+          "id": "jWDx2kw4MuU",
+          "title": "Eaz Da Bully - Who The Cap Fit feat. YK & Keyz"
+        }
+      ]
+    },
+    {
+      "id": "ali-naseraldeen",
+      "name": "Ali Naseraldeen",
+      "nameAr": "علي نصرالدين",
+      "channelId": "UCxdNLo3K138E6EfAjo9yJNg",
+      "handle": "@OfficialAliNaseraldeen",
+      "avatar": "https://yt3.googleusercontent.com/rauQ0QOkKS1fj-4_-dE1TYQXoPU9ASfRIDa9XlIBiFlsCyvnvJ6OYDChoFG5vPo0GsfwIY9bLg=s900-c-k-c0x00ffffff-no-rj",
+      "videos": [
+        {
+          "id": "oF5388VCh0c",
+          "title": "سادة لون خمري 25/9/2026 #عصام_ساتي#حليم_تاج_السر #علي_نصرالدين"
+        },
+        {
+          "id": "sjUCRChuRJk",
+          "title": "وصل غناي 🕊️ #علي_نصرالدين                        soon"
+        },
+        {
+          "id": "Bu_QbGqY5mE",
+          "title": "تنابل الان علي. جميع المنصات #علي_نصرالدين#عصام_ساتي#السودان"
+        },
+        {
+          "id": "Sso9pofr8DI",
+          "title": "​🔥 جديدنا نزل رسمياً!أغنية \"تنابل\" متاحة الآن علي قناة نيلوس و سبوتيفاي  جميع المنصات  #تنابل #نيلوس"
+        },
+        {
+          "id": "HRh3MKcQq6Y",
+          "title": "🚨 أغنية \"تنابل\" نزلت الأن! 🎧اسمعوها على قناة نيلوس على يوتيوب، سبوتيفاي، وجميع المنصات. #عصام_ساتي"
+        },
+        {
+          "id": "0zR--K1lVM8",
+          "title": "اشتقنا ليكم كتير جدا. وجاي تقيل جدا🔥🔥🔥🔥🇸🇩 #موسيقى #السودان #afrobeats #africa"
+        },
+        {
+          "id": "Kk2pUlGO-dI",
+          "title": "توبا 🔥والقادم اقوي واجمل 🔥"
+        },
+        {
+          "id": "4UJWcGVAZkw",
+          "title": "موسيقي٥٦ من الخرطوم للعالم 🔴بت النبي🔴"
+        },
+        {
+          "id": "S3f1OK5SK0I",
+          "title": "شكراً على الدعم والمحبة والثقة، وجودكم معانا هو أكبر دافع لينا نقدم الأفضل في كل مرة.موسيقي ٥٦"
+        },
+        {
+          "id": "41m_eH-c5KE",
+          "title": "شكراً من القلب لكل الناس الجدد الانضموا لينا واشتركوا في قناتنا  والجاي اقوي ونار🔥"
+        }
+      ],
+      "socials": {
+        "tiktok": "https://www.tiktok.com/@alinaseraldeen_official"
+      }
+    },
+    {
+      "id": "niile",
+      "name": "Niile",
+      "nameAr": "نايل",
+      "channelId": "UCMP9AcvvDyLzULP4vfaqN0Q",
+      "handle": "@Niile",
+      "avatar": "https://yt3.googleusercontent.com/SmH_kP_LSln3nB0KVr_S1TXrF5vMbvWWD3qrzHZSsvk-n7ZGIiFENBqW4EHbTQvw2fw30Rbgrw=s900-c-k-c0x00ffffff-no-rj",
+      "videos": [
+        {
+          "id": "C0EBoocgvek",
+          "title": "Niile Zaman Mafi زمن مافي"
+        },
+        {
+          "id": "xy-_wwBJnLQ",
+          "title": "Niile x Toodope Carbon كربون"
+        },
+        {
+          "id": "yGoQl-W1NGw",
+          "title": "#the_making of “Rj3een Tany” #راجعين_تاني شكرا لكل الفنانين المشاركين #اكسبلور #sudan"
+        },
+        {
+          "id": "R2S4rz5oCJg",
+          "title": "10 April 2025"
+        },
+        {
+          "id": "LuMiNCHvMiE",
+          "title": "Niile - Aslia اصلية"
+        },
+        {
+          "id": "wxQRGtbRSl0",
+          "title": "Niile AyAy"
+        },
+        {
+          "id": "d7Am4zYUWF8",
+          "title": "Niile - FKL3B"
+        },
+        {
+          "id": "Q6iGpM1Kf9U",
+          "title": "Niile - Al shari3 Bs (official Audio)"
+        },
+        {
+          "id": "yxzQFYKvgfU",
+          "title": "Niile - Thin Ice"
+        },
+        {
+          "id": "9haENMsbcKE",
+          "title": "Niile - The Words feat. Simplyazza"
+        },
+        {
+          "id": "ZZnd-JY4zns",
+          "title": "Niile - FKL3B"
+        },
+        {
+          "id": "lDVhyRR4rzw",
+          "title": "Niile - KALAM كلام feat TooDope"
+        }
+      ],
+      "socials": {
+        "youtube": "https://www.youtube.com/@niile",
+        "tiktok": "https://www.tiktok.com/@niilemusic"
+      }
+    },
+    {
+      "id": "mazmars",
+      "name": "MazMars",
+      "nameAr": "ماز مارس",
+      "channelId": "UCzardueCZaMOokWVnCAwxWg",
+      "handle": "@MazMars",
+      "avatar": "https://yt3.googleusercontent.com/7mIfGY6EUmu8bd-MG1ZX1FXYTKEpyovp9jHFtSLx8vnqsc54cKeyNgtsFlbiIyCFnXd2YN44wq8=s900-c-k-c0x00ffffff-no-rj",
+      "videos": [
+        {
+          "id": "K8drm2aDfOA",
+          "title": "AHYANA | أحّي انا MAZMARS | SHANCOTY"
+        },
+        {
+          "id": "w7QZ4nhWC1U",
+          "title": "GEDDI | قِدّي MAZMARS ft. XHY (OFFICIAL AUDIO MUSIC . PROD BY FSHEEZY)"
+        },
+        {
+          "id": "faJMK7ZH3s4",
+          "title": "AH WEEN (AMAPIANO) (feat. DJ Aloo)"
+        },
+        {
+          "id": "sGW0CsgAHCY",
+          "title": "Ahy Ana"
+        },
+        {
+          "id": "Cfgr0axVISA",
+          "title": "Geddi (feat. XHY)"
+        },
+        {
+          "id": "9lB7scDiU7k",
+          "title": "MaMan ft. Mazmars, BAHARY Official Music Video Prod by: Issa & Assouad Novo | مامان مع مازمارس- بحري"
+        },
+        {
+          "id": "vhHl1Y9Cu3w",
+          "title": "Bahary"
+        },
+        {
+          "id": "k64tuz9WQD8",
+          "title": "AH WEEN (AMAPIANO) (feat. Dj Aloo)"
+        },
+        {
+          "id": "99t6zOMU1IU",
+          "title": "Ta3aly"
+        }
+      ]
+    },
+    {
+      "id": "sufyvn",
+      "name": "Sufyvn",
+      "nameAr": "سوفيان",
+      "channelId": "UCp08lwpyA6ncDkzaEsR_hlQ",
+      "handle": "@sufyvnmusic",
+      "avatar": "https://yt3.googleusercontent.com/J_3xBMiJfMiCaS-XBAhryyTLfMs92LUYOZ7cl1o1Jdnj7xdvNr6XRciAEtHKjCMGSGvRJSriOg=s900-c-k-c0x00ffffff-no-rj",
+      "videos": [
+        {
+          "id": "hEuH0UoRCLg",
+          "title": "Sufyvn - Places"
+        },
+        {
+          "id": "jaVcudc0KdE",
+          "title": "Ascension"
+        },
+        {
+          "id": "yH6CFuT15SA",
+          "title": "Whispers"
+        },
+        {
+          "id": "a_EsywShSA0",
+          "title": "Dust"
+        },
+        {
+          "id": "HvOUt_raUWM",
+          "title": "Rupture"
+        },
+        {
+          "id": "_ps4Yr86ao8",
+          "title": "Al Laffa"
+        }
+      ]
+    },
+    {
+      "id": "seidosimba",
+      "name": "Seidosimba",
+      "nameAr": "سيدو سيمبا",
+      "channelId": "UCFqRaWlWUfRTiSn6ymtRxPw",
+      "handle": "@seidosimba",
+      "avatar": "https://yt3.googleusercontent.com/bIYw79324ktwG-uPcBqQ8jW96x1UcS257VTldqWfxYnI_58hu5mFL3PV5iLOuXKYUFhXBtmdGw=s900-c-k-c0x00ffffff-no-rj",
+      "videos": [
+        {
+          "id": "U0lO_nLXOGM",
+          "title": "اعمال فنية حديدة في الطريق واولها -(شردت) على صفحة مارسيمبا بالتعاون مع نجوم حيتم الكشف عنهم لاحقا.."
+        }
+      ]
+    },
+    {
+      "id": "flippter",
+      "name": "Flippter",
+      "nameAr": "فليبتر",
+      "channelId": "UC80LSJ38S_mVY_rbT8ZA0Iw",
+      "handle": "",
+      "avatar": "https://yt3.googleusercontent.com/Vit6rOSgnYHxvFDxlaM1TKSok-D499EmEWHqIcqrOcoLL12BU1FTHHCOggBq1-eEHBD6YiqSyw=s900-c-k-c0x00ffffff-no-rj",
+      "videos": [
+        {
+          "id": "eCA4eDyldl4",
+          "title": "HAGARAT"
+        },
+        {
+          "id": "zZwCYxSgoCw",
+          "title": "Hatred"
+        },
+        {
+          "id": "k3jpRt5F3xc",
+          "title": "Gorasa II"
+        },
+        {
+          "id": "iVKw9oiOWoU",
+          "title": "Gorasa I"
+        },
+        {
+          "id": "J5wUzEEQi2g",
+          "title": "Shafata"
+        }
+      ]
+    },
+    {
+      "id": "kayo",
+      "name": "Kay'O",
+      "nameAr": "كي او",
+      "channelId": "UCR1sYEyqqGya5YvjCwtJE_A",
+      "handle": "",
+      "avatar": "https://yt3.googleusercontent.com/XW6C3gAZt6_75oMVP6JyArWe2UFR61e_N_NvtlcI5uUTF5aExjmmDSfUFvTbzC5xaqmW6W3O=s900-c-k-c0x00ffffff-no-rj",
+      "videos": [
+        {
+          "id": "OXako4Aeb88",
+          "title": "305"
+        },
+        {
+          "id": "j4YhwzfI5fk",
+          "title": "3adi"
+        },
+        {
+          "id": "dgordt29TA4",
+          "title": "Kobe"
+        },
+        {
+          "id": "lWkMyFsHArU",
+          "title": "Casablanca"
+        },
+        {
+          "id": "4yazm6rZbFs",
+          "title": "000"
+        },
+        {
+          "id": "KUC4j9pqGyQ",
+          "title": "Ma Radeet"
+        },
+        {
+          "id": "zNiUkBLcl4Q",
+          "title": "Ma Radeet"
+        }
+      ]
+    }
+  ],
+  "beefs": [
+    {
+      "id": "hleem-soulja-2025",
+      "title": "حليم × سولجا — مولوتوف / فريستايل 2020",
+      "date": "2025-06-30",
+      "summary": "بحسب بيلبورد عربية، قرأ بعض المتابعين «فريستايل 2020» كرد غير مباشر في سياق منافسات حليم وولجيز؛ ليست نسبة مؤكدة من الفنان.",
+      "sourceUrl": "https://www.billboardarabia.com/%D9%85%D9%88%D8%B3%D9%8A%D9%82%D9%89/%D9%87%D9%8A%D8%A8-%D9%87%D9%88%D8%A8-%D8%B9%D8%B1%D8%A8%D9%8A/%D8%B3%D9%88%D9%84%D8%AC%D8%A7-%D9%8A%D8%B4%D8%B9%D9%84-%D8%A7%D9%84%D8%A8%D9%8A%D9%81-%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86%D9%8A-%D9%81%D9%8A-%D9%81%D8%B1%D9%8A-%D8%B3%D8%AA%D8%A7%D9%8A%D9%84-2020-4495",
+      "videos": [
+        {
+          "videoId": "MS1-LI3EwfI",
+          "title": "Molotof — إصدار YouTube Music الرسمي",
+          "artistName": "Hleem Taj Alser",
+          "role": "track",
+          "date": "2025-02-26"
+        },
+        {
+          "videoId": "Q4_NPZJoKzU",
+          "title": "2020 Freestyle (Prod. Khayyat)",
+          "artistName": "Soulja",
+          "role": "reply",
+          "date": "2025-06"
+        }
+      ]
+    },
+    {
+      "id": "zogol-lazer-2026",
+      "title": "زغل — LAZER (DISSRESPECT)",
+      "date": "2026-10-18",
+      "summary": "زغل نزّل فيجواليزر رسمي LAZER (DISSRESPECT). مذكور في حصاد أكتوبر لـ The Sudanist.",
+      "sourceUrl": "https://thesudanist.com/whats-new-in-sudanese-music-october-2026/",
+      "videos": [
+        {
+          "videoId": "XJ6QF5rp0W8",
+          "title": "LAZER (DISSRESPECT)",
+          "artistName": "ZOGOL",
+          "role": "track",
+          "date": "2026-10-18"
+        }
+      ]
+    },
+    {
+      "id": "fb-hleem-soulja-origin",
+      "title": "نقاش فيسبوك: بداية الخلاف بين حليم وسولجا",
+      "date": "",
+      "summary": "منشور عام في مجموعة راب سوداني يناقش بداية المشكلة بين حليم وسولجا.",
+      "externalUrl": "https://www.facebook.com/groups/sudaneserap/posts/1007960594594846/",
+      "videos": []
+    },
+    {
+      "id": "fb-soulja-haqiqa",
+      "title": "نقاش فيسبوك: تراك سولجا «حقيقة»",
+      "date": "",
+      "summary": "نقاش جمهور في مجموعة 249rap حول تراك سولجا في سياق السين.",
+      "externalUrl": "https://www.facebook.com/groups/249rap/posts/824835036240737/",
+      "videos": []
+    },
+    {
+      "id": "fb-montiyago-hleem-bars",
+      "title": "نقاش فيسبوك: بارات مونتياغو والسين",
+      "date": "",
+      "summary": "منشور جمهور يقتبس بارات لمونتياغو ضمن نقاشات المواجهة في مجموعة 249rap.",
+      "externalUrl": "https://www.facebook.com/groups/249rap/posts/830891092301798/",
+      "videos": []
+    }
+  ],
+  "news": [
+    {
+      "id": "sudanist-2026-10",
+      "date": "2026-11-05",
+      "title": "حصاد أكتوبر 2026 في الراب السوداني",
+      "summary": "أواب نزّل EP «ANTI HERO»، ومونتياغو نزّل «YAGO» وبعده «MAWAWEL»، وكولو وEZ9 نزّلوا «B7riii» إهداءً لبحري، وفيتو واصل «Sound Storm»، مع إشارة لمواجهات ساني وبلاك جاك.",
+      "source": "The Sudanist",
+      "url": "https://thesudanist.com/whats-new-in-sudanese-music-october-2026/"
+    },
+    {
+      "id": "sudanist-2026-09",
+      "date": "2026-10-04",
+      "title": "حصاد سبتمبر 2026: حليم وSoulja ومونتياغو",
+      "summary": "حليم نزّل EP «Mackintosh’s»، وسولجا نزّل «0 Views»، ومونتياغو نزّل «MSTR»، مع تعاونات لفيتو وEZ9 وغيرهم.",
+      "source": "The Sudanist",
+      "url": "https://thesudanist.com/whats-new-in-sudanese-music-september-2026/"
+    },
+    {
+      "id": "billboard-soulja-freestyle-2025",
+      "date": "2025-06-30",
+      "title": "سولجا يشعل البيف السوداني في «فري ستايل 2020»",
+      "summary": "بيلبورد عربية تغطي إصدار سولجا «فريستايل 2020» وردّه في سياق مواجهات مع حليم وولجيز بعد «مولوتوف».",
+      "source": "Billboard Arabia",
+      "url": "https://www.billboardarabia.com/%D9%85%D9%88%D8%B3%D9%8A%D9%82%D9%89/%D9%87%D9%8A%D8%A8-%D9%87%D9%88%D8%A8-%D8%B9%D8%B1%D8%A8%D9%8A/%D8%B3%D9%88%D9%84%D8%AC%D8%A7-%D9%8A%D8%B4%D8%B9%D9%84-%D8%A7%D9%84%D8%A8%D9%8A%D9%81-%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86%D9%8A-%D9%81%D9%8A-%D9%81%D8%B1%D9%8A-%D8%B3%D8%AA%D8%A7%D9%8A%D9%84-2020-4495"
+    },
+    {
+      "id": "scenenow-counter-attack-2024",
+      "date": "2024-04-11",
+      "title": "دافن شي وسولجا في «Counter Attack» لفيلم Godzilla x Kong",
+      "summary": "تعاون رسمي بين دافن شي وسولجا عبر MDLBEAST على تراك «هجمة مرتدة / Counter Attack».",
+      "source": "SceneNow",
+      "url": "https://scenenow.com/Noise/Dafencii-Soulja-Unite-for-Godzilla-x-Kong-The-New-Empire-Anthem"
+    },
+    {
+      "id": "scenenoise-suits-2024",
+      "date": "2024-10-28",
+      "title": "سولجا ومونتياغو و77 في EP «Suits»",
+      "summary": "EP من ثلاث تراكات يبرز كيمياء سولجا ومونتياغو على إنتاج 77.",
+      "source": "SceneNoise",
+      "url": "https://scenenoise.com/New-Music/Soulja-Montiyago-77-Join-Forces-on-New-EP-Suits"
+    },
+    {
+      "id": "complex-22-tracks-2026",
+      "date": "2026-01-13",
+      "title": "22 تراك راب سوداني لازم تعرفهم — Complex MENA",
+      "summary": "قائمة Complex MENA لتراكات شكّلت مسار الراب السوداني، من ناس جوتا وولجيز لمانديلا وسولجا.",
+      "source": "Complex MENA",
+      "url": "https://complex.me/music/sudanese-hip-hop-songs-artists-you-should-know/"
+    },
+    {
+      "id": "okayafrica-montiyago",
+      "date": "",
+      "title": "مونتياغو يرسم مرجعه الخاص في الراب السوداني",
+      "summary": "OkayAfrica عن أسلوب مونتياغو ومشاريعه الأخيرة في المشهد السوداني.",
+      "source": "OkayAfrica",
+      "url": "https://www.okayafrica.com/montiyago-is-creating-his-own-reference-for-sudanese-rap/1413247"
+    },
+    {
+      "id": "scenenoise-21-rappers",
+      "date": "",
+      "title": "عصر الراب السوداني الجديد: 21 رابر لازم تعرفهم",
+      "summary": "ملف SceneNoise عن جيل الرابرز السودانيين الصاعدين.",
+      "source": "SceneNoise",
+      "url": "https://scenenoise.com/Features/Sudan-s-New-Hip-Hop-Era-21-Rappers-You-Should-Know"
+    }
+  ]
+}
