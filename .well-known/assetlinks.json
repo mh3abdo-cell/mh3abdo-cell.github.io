@@ -3,6 +3,6 @@
   "target": {
     "namespace": "android_app",
     "package_name": "com.mrmstfa.manabir",
-    "sha256_cert_fingerprints": ["E3:50:4B:21:78:14:11:8F:5B:D0:85:27:04:45:5C:2C:35:C6:2E:EF:AC:40:23:12:37:B3:47:CB:51:45:EB:C4"]
+    "sha256_cert_fingerprints": ["E3:50:4B:21:78:14:11:8F:5B:D0:85:27:04:45:5C:2C:35:C6:2E:EF:AC:40:23:12:37:B3:47:CB:51:45:EB:C4", "D0:19:CB:6B:A3:F8:DB:17:B5:AF:BF:79:F3:D4:B3:43:32:00:7D:56:93:CE:DD:39:18:FB:AA:5C:A2:B8:CF:D5"]
   }
 }]
