@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "updated": "2026-11-10",
+  "updated": "2026-11-15",
   "featured": {
     "song": {
       "videoId": "wsZ3Ab_v9po",
@@ -9,7 +9,21 @@
     },
     "artistId": "hleem-taj-alser"
   },
-  "concerts": [],
+  "concerts": [
+    {
+      "id": "dff-music-doha-2026-11-25",
+      "title": "DFF Music — مهرجان الدوحة السينمائي",
+      "artists": [
+        "ez9",
+        "nadine-el-roubi",
+        "dafencii"
+      ],
+      "date": "2026-11-25",
+      "city": "الدوحة",
+      "venue": "Geekdom، لوسيل بوليفارد — 5:30 مساءً",
+      "link": "https://www.dohafilm.com/en/contents/F3B809F0-5189-481C-A8C8-A488B87698CF"
+    }
+  ],
   "ads": {
     "banner": true,
     "interstitial": true,
@@ -3541,6 +3555,14 @@
     }
   ],
   "news": [
+    {
+      "id": "dff-2026-music-sudanese",
+      "date": "2026-11-02",
+      "title": "حضور سوداني في برنامج موسيقى مهرجان الدوحة السينمائي 2026",
+      "summary": "برنامج DFF Music (19–27 نوفمبر) يضم EZ9 ودافن شي ونادين الروبي ومارسيمبا وإلمين، وحفلة EZ9 ونادين ودافن شي يوم 25 نوفمبر في لوسيل.",
+      "source": "Doha Film Institute",
+      "url": "https://www.dohafilm.com/en/press/press-releases/doha-film-festival-2026-unveils-dynamic-music-programme-regional-voices-and"
+    },
     {
       "id": "sudanist-2026-10",
       "date": "2026-11-05",
