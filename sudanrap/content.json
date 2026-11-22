@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "updated": "2026-11-15",
+  "updated": "2026-11-22",
   "featured": {
     "song": {
       "videoId": "wsZ3Ab_v9po",
@@ -3555,6 +3555,30 @@
     }
   ],
   "news": [
+    {
+      "id": "sudanist-truce-2026-11",
+      "date": "2026-11-16",
+      "title": "The Sudanist: الراب السوداني محتاج هدنة",
+      "summary": "مقال رأي عن موجة الديس تراكات في السين، من حليم وسولجا لـ rKay'O ومانديلا وبلاك جاك وساني، ودعوة للرجوع للحكي والتجريب زي B7riii لكولو وEZ9 وSound Storm لفيتو.",
+      "source": "The Sudanist",
+      "url": "https://thesudanist.com/sudanese-rap-needs-to-call-a-truce/"
+    },
+    {
+      "id": "scenenoise-kordofani-ski-ski-2026-11",
+      "date": "2026-11-16",
+      "title": "كردفاني وكيزي في «SKI SKI»",
+      "summary": "SceneNoise اختارت تراك كردفاني الجديد مع كيزي «SKI SKI»، ميلوديك تراب، في قائمة Rap of the Week (10–16 نوفمبر).",
+      "source": "SceneNoise",
+      "url": "https://scenenoise.com/New-Music/Rap-of-the-Week-Nov-10-Nov-16"
+    },
+    {
+      "id": "waraelmazzika-montiyago-mawawel-2026-11",
+      "date": "2026-11-04",
+      "title": "مونتياغو في «مواويل»",
+      "summary": "وراء المزيكا عن سينجل مونتياغو التراب القصير «مواويل» عن الخيانة والبعد وتقل الطريق المستقل.",
+      "source": "Wara El Mazzika",
+      "url": "https://waraelmazzika.com/montiyago-maps-street-level-resilience-on-short-trap-single-mawawel/"
+    },
     {
       "id": "dff-2026-music-sudanese",
       "date": "2026-11-02",
